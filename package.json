@@ -34,6 +34,7 @@
     "grunt-makara-amdify": "^1.0.1",
     "grunt-mocha-cli": "^1.14.0",
     "mocha": "^1.18.0",
+    "react": "^0.13.3",
     "supertest": "^0.9.0"
   }
 }
