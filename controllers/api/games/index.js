@@ -1,7 +1,7 @@
 'use strict';
 var
-	Game 			= require('../../models/games'),
-	Question 	= require('../../models/questions')
+	Game 			= require('../../../models/games'),
+	Question 	= require('../../../models/questions')
 ;
 
 module.exports = function(routes) {
