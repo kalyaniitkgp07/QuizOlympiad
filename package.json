@@ -23,6 +23,8 @@
     "requirejs": "^2.1.20"
   },
   "devDependencies": {
+    "events": "^1.0.2",
+    "flux": "^2.1.1",
     "grunt": "^0.4.5",
     "grunt-cli": "^0.1.13",
     "grunt-config-dir": "^0.3.2",
@@ -35,7 +37,9 @@
     "grunt-makara-amdify": "^1.0.1",
     "grunt-mocha-cli": "^1.14.0",
     "jsx-loader": "^0.13.2",
+    "keymirror": "^0.1.1",
     "mocha": "^1.18.0",
+    "object-assign": "^4.0.1",
     "react": "^0.13.3",
     "react-router": "^0.13.3",
     "supertest": "^0.9.0",
