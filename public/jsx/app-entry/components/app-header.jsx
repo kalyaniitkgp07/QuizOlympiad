@@ -27,14 +27,43 @@ var Header = React.createClass({
     //  <Link to="logout">Log out</Link> :
     //  <Link to="login">Sign in</Link>;
     return (
-      <div>
-        <ul className="nav nav-tabs">
-          <li><Link to="games">Games</Link></li>
-          <li><Link to="about">About</Link></li>
-          <li><Link to="scores">Scores</Link></li>
-          <li><Link to="contact">Contact</Link></li>
-        </ul>
-        <br/>
+      <div className="header">
+        <div className="container">
+          <div className="header-nav">
+            <nav className="navbar navbar-default">
+              <div className="navbar-header">
+                <button
+                  type="button"
+                  className="navbar-toggle collapsed"
+                  data-toggle="collapse"
+                  data-target="#bs-example-navbar-collapse-1"
+                >
+                  <span className="sr-only">Toggle navigation</span>
+                  <span className="icon-bar"></span>
+                  <span className="icon-bar"></span>
+                  <span className="icon-bar"></span>
+                </button>
+                <a className="navbar-brand" href="/"><i className="fa fa-rocket" aria-hidden="true"></i><span> D</span>affodils</a>
+              </div>
+              <div className="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
+                <ul className="nav navbar-nav">
+                  <li className="hvr-bounce-to-bottom" data-toggle="collapse" data-target=".navbar-collapse">
+                    <Link to="games">Games</Link>
+                  </li>
+                  <li className="hvr-bounce-to-bottom" data-toggle="collapse" data-target=".navbar-collapse">
+                    <Link to="about">About</Link>
+                  </li>
+                  <li className="hvr-bounce-to-bottom" data-toggle="collapse" data-target=".navbar-collapse">
+                    <Link to="scores">Scores</Link>
+                  </li>
+                  <li className="hvr-bounce-to-bottom" data-toggle="collapse" data-target=".navbar-collapse">
+                    <Link to="contact">Contact</Link>
+                  </li>
+                </ul>
+              </div>
+            </nav>
+          </div>
+        </div>
       </div>
     );
   }

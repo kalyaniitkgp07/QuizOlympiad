@@ -20,7 +20,7 @@ var Template =
   	*/
     render: function(){
       return (
-       	<div className="container">
+       	<div>
           <Header />
           {this.props.children}
           <br/><br/>
