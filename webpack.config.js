@@ -1,8 +1,8 @@
 module.exports = {
-	entry: "./public/jsx/helloworld.jsx",
+	entry: "./public/jsx/main.jsx",
     output: {
         path: "./.build/js",
-        filename: "master.js"
+        filename: "main.js"
     },
     module: {
         loaders: [
