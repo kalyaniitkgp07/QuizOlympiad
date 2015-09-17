@@ -56,7 +56,7 @@
             <div class="row">
                 {+body /}
             </div>
-            <div id="example"></div>
+            <div id="mainContainer"></div>
         </div>
         <!-- for bootstrap working -->
         <script src="/js/fallbacks/bootstrap.js"> </script>

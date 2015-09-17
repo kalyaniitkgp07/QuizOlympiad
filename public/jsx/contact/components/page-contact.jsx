@@ -4,7 +4,7 @@ var ContactPage = React.createClass({
 	render: function() {
 		return (
 			<div>
-				CONTACT PAGE
+				CONTACT PAGE CHANGE
 			</div>
 		);
 	}

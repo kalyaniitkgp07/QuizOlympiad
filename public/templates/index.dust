@@ -1,5 +1,2 @@
 {>"layouts/master" /}
 
-{<body}
-    <h1>Hio, {name}!!!!</h1>
-{/body}

@@ -7,7 +7,8 @@
   "scripts": {
     "test": "grunt test",
     "build": "grunt build",
-    "all": "npm run build && npm run test"
+    "all": "npm run build && npm run test",
+    "start": "webpack && node server.js"
   },
   "dependencies": {
     "construx": "^1.0.0",
