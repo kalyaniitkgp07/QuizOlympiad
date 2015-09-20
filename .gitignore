@@ -18,3 +18,5 @@ npm-debug.log
 .nodemonignore
 .npmignore
 .yo-rc.json
+.difflog
+public/templates/layouts/.test.html

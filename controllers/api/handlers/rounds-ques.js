@@ -1,72 +1,11 @@
-'use strict';
+'use strict'
 var
 	Game 			= require('../../../models/games'),
 	Question 	= require('../../../models/questions')
 ;
 
-module.exports = function(routes) {
-
-	routes.get('/', function(req, res) {
-		var
-			query 			= {},
-			projection 	= {
-				GameDescription	: 1, 
-				GameIdName			: 1,
-				GameDisplayName	: 1
-			}
-		;
-		Game.find(query, projection, function(err, gameList) {
-			if(err) {
-				console.log('ERROR:::\n\tsrc: /questions/\n\terror', err);
-				res.json({
-					status	: false,
-					error		: null,
-					result	: null,
-				});
-			} else {
-				res.json({
-					status			: true,
-					error				: null,
-					result			: {
-						gameList 	: gameList,
-					},
-				});
-			}
-		});
-	});
-
-	routes.get('/:idname/rounds/', function(req, res) {
-		var
-			idname 	= req.params.idname,
-			query		= {
-				GameIdName: idname 
-			},
-			projection	= {
-				'GameRounds.RoundIdName'			: 1,
-				'GameRounds.RoundDisplayName'	: 1,
-				'GameRounds.RoundRules'				: 1
-			}
-		;
-
-		Game.find(query, projection, function(err, roundList) {
-			if(err) {
-				console.log('ERROR:::\n\tsrc: /questions/' + idname + '/rounds/\n\terror:', err);
-				res.json({
-					status	: false,
-					error		: err,
-					result	: null, 
-				});
-			} else {
-				res.json({
-					status	: true,
-					error		: null,
-					result	: {roundList: roundList}, 
-				});
-			}
-		});
-	});
-
-	routes.get('/:gidname/rounds/:ridname/questions/', function(req, res) {
+module.exports = {
+	getMethod: function(req, res) {
 		var
 			gidname = req.params.gidname,
 			ridname = req.params.ridname
@@ -133,5 +72,5 @@ module.exports = function(routes) {
 				});				
 			}
 		});
-	});
-};
+	}
+}
