@@ -7,12 +7,13 @@ var
 ;
 
 var
-	APP 		= require('./app-entry/components/app.jsx').APP,
-	Games 	= require('./games/components/page-games.jsx'),
-	About 	= require('./about/components/page-about.jsx'),
-	Scores 	= require('./scores/components/page-scores.jsx'),
-	Contact = require('./contact/components/page-contact.jsx'),
-	Login		= require('./auth/components/page-login.jsx')
+	APP 			= require('./app-entry/components/app.jsx').APP,
+	Games 		= require('./games/components/page-games.jsx'),
+	About 		= require('./about/components/page-about.jsx'),
+	Scores 		= require('./scores/components/page-scores.jsx'),
+	Contact 	= require('./contact/components/page-contact.jsx'),
+	Login			= require('./auth/components/page-login.jsx'),
+	Register	= require('./register/components/page-register.jsx')
 ;
 
 var routes = (
@@ -22,6 +23,7 @@ var routes = (
     <Route name="scores" handler={Scores} />
     <Route name="contact" handler={Contact} />
     <Route name="login" handler={Login} />
+    <Route name="register" handler={Register} />
   </Route>
 );
 

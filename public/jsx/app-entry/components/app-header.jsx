@@ -47,16 +47,16 @@ var Header = React.createClass({
               </div>
               <div className="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
                 <ul className="nav navbar-nav">
-                  <li className="hvr-bounce-to-bottom" data-toggle="collapse" data-target=".navbar-collapse">
+                  <li className="hvr-bounce-to-bottom">
                     <Link to="games">Games</Link>
                   </li>
-                  <li className="hvr-bounce-to-bottom" data-toggle="collapse" data-target=".navbar-collapse">
+                  <li className="hvr-bounce-to-bottom">
                     <Link to="about">About</Link>
                   </li>
-                  <li className="hvr-bounce-to-bottom" data-toggle="collapse" data-target=".navbar-collapse">
+                  <li className="hvr-bounce-to-bottom">
                     <Link to="scores">Scores</Link>
                   </li>
-                  <li className="hvr-bounce-to-bottom" data-toggle="collapse" data-target=".navbar-collapse">
+                  <li className="hvr-bounce-to-bottom">
                     <Link to="contact">Contact</Link>
                   </li>
                 </ul>

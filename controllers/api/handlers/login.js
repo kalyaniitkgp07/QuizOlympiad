@@ -12,32 +12,31 @@ module.exports = {
 			projection	= {}
 		;
 		User.find(query, projection, function(err, userList) {
-			var response = {};
 			if(err) {
-				response = {
+				res.json({
 					status	: false,
 					error		: 'Failed to login.',
 					result	: null,
-				};
+				});
 			} else {
 				if(userList.length === 0) {
-					response = {
+					res.json({
 						status	: false,
 						error		: 'User not found.',
 						result	: null,
-					};
+					});
 				} else if(userList.length > 1) {
-					response = {
+					res.json({
 						status	: false,
 						error		: 'More than one user found.',
 						result	: null,
-					};
+					});
 				} else if(userList[0].toObject().Password !== password) {
-					response = {
+					res.json({
 						status	: false,
 						error		: 'Wrong password.',
 						result	: null,
-					};
+					});
 				} else {
 					var 
 						user = userList[0].toObject(),
@@ -46,16 +45,15 @@ module.exports = {
 							userrole	: user.UserRole,
 						}
 					;
-					response = {
+					res.json({
 						status	: true,
 						error 	: null,
 						result 	: {
 							token	: JSON.stringify(token),
 						},
-					};
+					});
 				}
 			}
-			res.json(response);
 		});
 	},
 };

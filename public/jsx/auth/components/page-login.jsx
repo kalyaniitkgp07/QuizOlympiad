@@ -55,8 +55,8 @@ var LoginContainer = React.createClass({
 		return (
       <div>
         <form onSubmit={this._doLogin}>
-          <label><input ref="username" placeholder="username"/></label>
-          <label><input ref="password" placeholder="password"/></label>
+          <label><input ref="username" placeholder="username"/></label><br/>
+          <label><input ref="password" placeholder="password"/></label><br/>
           <button type="submit">login</button>
           {errors}
         </form>

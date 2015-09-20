@@ -1,6 +1,7 @@
 'use strict'
 var
-	LoginHandlers 			= require('./handlers/login'),
+	LoginHandler	 			= require('./handlers/login'),
+	RegisterHandler			= require('./handlers/register'),
 	GamesDescHandler 		= require('./handlers/games-desc'),
 	GamesRoundsHandler	= require('./handlers/games-rounds'),
 	RoundsQuesHandler		= require('./handlers/rounds-ques'),
@@ -8,7 +9,8 @@ var
 ;
 
 module.exports = function(router) {
-	router.post('/login', LoginHandlers.postMethod);
+	router.post('/login', LoginHandler.postMethod);
+	router.post('/register', RegisterHandler.postMethod);
 	router.get('/games/', GamesDescHandler.getMethod);
 	router.get('/games/:idname/rounds/', GamesRoundsHandler.getMethod);
 	router.get('/games/:gidname/rounds/:ridname/questions/', RoundsQuesHandler.getMethod);
