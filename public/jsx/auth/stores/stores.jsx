@@ -24,6 +24,8 @@ function _storeLoginData(response) {
   _authToken   = response.result;
   if(ApiUtils.hasLoaded(response)) {
     LocalStorage.update(STORAGE_KEYS.AUTH_TOKEN, response.result);
+  } else {
+    LocalStorage.remove(STORAGE_KEYS.AUTH_TOKEN);
   }
 }
 
@@ -77,6 +79,13 @@ var AuthStore = React.addons.update(EventEmitter.prototype, {$merge: {
         _storeLoginData({
           status  : ApiUtils.LOADING_STATE.FAILURE,
           error   : action.data,
+          result  : null,
+        });
+        break;
+      case ActionConstatns.AUTH_LOG_OUT:
+        _storeLoginData({
+          status  : ApiUtils.LOADING_STATE.FAILURE,
+          error   : null,
           result  : null,
         });
         break;

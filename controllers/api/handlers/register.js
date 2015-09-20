@@ -1,5 +1,9 @@
 'use strict'
-var User = require('../../../models/users');
+var
+	bcrypt 			= require('bcryptjs'),
+	User 				= require('../../../models/users'),
+	USER_ROLES	= require('../../../config/constants').USER_ROLES
+;
 
 module.exports = {
 	postMethod: function(req, res) {
@@ -21,10 +25,11 @@ module.exports = {
 			} else if(userList.length === 0) {
 				// sign up
 				var
+					passHash = bcrypt.hashSync(password, bcrypt.genSaltSync(10)),
 					userCredentials = {
 						UserName: username,
-						Password: password,
-						UserRole: 'AUDIENCE'
+						Password: passHash,
+						UserRole: USER_ROLES.DEFAULT,
 					},
 					user = new User(userCredentials)
 				;
@@ -39,7 +44,7 @@ module.exports = {
 					} else {
 						var token = {
 							username: username,
-							userrole: 'AUDIENCE',
+							userrole: USER_ROLES.DEFAULT,
 						};
 						res.json({
 							status	: true,

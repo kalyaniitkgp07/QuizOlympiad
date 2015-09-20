@@ -7,10 +7,10 @@ var userModel = function() {
 			UserName 		: String,
 			Password		: String,
 			UserRole		: String,
-			SessionIds	: [Number],
 			FirstName		: String,
 			LastName		: String,
 			Phone				: Number,
+			Email				: String,
 		}, {
 			collection: 'Users'
 		});

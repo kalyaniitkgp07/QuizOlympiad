@@ -38,6 +38,17 @@ var AuthActions = {
       });
     });
   },
-}
+
+  doLogout: function() {
+    Dispatcher.handleAction({
+      actionType  : ActionConstants.AUTH_LOG_OUT,
+    });
+    $.ajax({
+      url       : '/api/logout',
+      dataType  : 'json',
+      method    : 'get',
+    });
+  },
+};
 
 module.exports = AuthActions;

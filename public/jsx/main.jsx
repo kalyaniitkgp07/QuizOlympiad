@@ -13,6 +13,7 @@ var
 	Scores 		= require('./scores/components/page-scores.jsx'),
 	Contact 	= require('./contact/components/page-contact.jsx'),
 	Login			= require('./auth/components/page-login.jsx'),
+	Logout		= require('./auth/components/page-logout.jsx'),
 	Register	= require('./register/components/page-register.jsx')
 ;
 
@@ -23,6 +24,7 @@ var routes = (
     <Route name="scores" handler={Scores} />
     <Route name="contact" handler={Contact} />
     <Route name="login" handler={Login} />
+    <Route name="logout" handler={Logout} />
     <Route name="register" handler={Register} />
   </Route>
 );
