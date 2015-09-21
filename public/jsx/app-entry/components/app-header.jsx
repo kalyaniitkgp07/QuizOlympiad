@@ -1,7 +1,7 @@
 let React = require('react');
 let Router = require('react-router');
-let Route = Router.Route;
-let RouteHandler = Router.RouteHandler;
+//let Route = Router.Route;
+//let RouteHandler = Router.RouteHandler;
 //let auth = require('../../stores/app-auth'); // TODO / USE DISPATCHER & ACTIONS
 //let Login = require('../auth/app-login');
 //let AppActions = require('../../actions/app-actions.js');
@@ -47,16 +47,16 @@ let Header = React.createClass({
               <div className="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
                 <ul className="nav navbar-nav">
                   <li className="hvr-bounce-to-bottom">
-                    <Link to="games">Games</Link>
+                    <Link to="/games">Games</Link>
                   </li>
                   <li className="hvr-bounce-to-bottom">
-                    <Link to="about">About</Link>
+                    <Link to="/about">About</Link>
                   </li>
                   <li className="hvr-bounce-to-bottom">
-                    <Link to="scores">Scores</Link>
+                    <Link to="/scores">Scores</Link>
                   </li>
                   <li className="hvr-bounce-to-bottom">
-                    <Link to="contact">Contact</Link>
+                    <Link to="/contact">Contact</Link>
                   </li>
                 </ul>
               </div>

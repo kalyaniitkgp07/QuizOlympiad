@@ -1,7 +1,5 @@
 let
 	React = require('react'),
-	//AppStore = require('../stores/app-store.js'),
-	//AppActions = require('../actions/app-actions.js'),
 	Header = require('./app-header.jsx')
 ;
 
@@ -9,24 +7,17 @@ function getCart() {
   return AppStore.getCart();
 }
 
-let Template = 
-	React.createClass({
-		/*
-    handleClick: function(){
-      AppActions.addItem();
-      console.log(getCart());
-    },    
-  	*/
-    render: function(){
-      return (
-       	<div>
-          <Header />
-          {this.props.children}
-          <br/><br/>
-          
-  	    </div>
-     	)
-    }
-	});
+let Template = React.createClass({
+  render: function(){
+    return (
+     	<div>
+        <Header />
+        {this.props.children}
+        <br/><br/>
+        
+	    </div>
+   	)
+  }
+});
 
 module.exports = Template;

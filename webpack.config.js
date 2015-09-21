@@ -4,6 +4,7 @@ module.exports = {
         path: "./.build/js",
         filename: "main.js"
     },
+    devtool: 'eval-source-map',
     module: {
         loaders: [
             { test: /\.jsx$/, loader: "babel" }

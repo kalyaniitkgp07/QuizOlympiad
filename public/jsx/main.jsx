@@ -1,34 +1,25 @@
-let
-	React 				= require('react'),
-	Router 				= require('react-router'),
-	Route 				= Router.Route,
-	RouteHandler 	= Router.RouteHandler,
-	Link 					= Router.Link
-;
+import React from 'react';
+import { Router, Route} from 'react-router';
+import Template from './app-entry/components/app-template.jsx';
+import Games 		from './games/components/page-games.jsx';
+import About 		from './about/components/page-about.jsx';
+import Scores		from './scores/components/page-scores.jsx';
+import Contact 	from './contact/components/page-contact.jsx';
+import Login 		from './auth/components/page-login.jsx';
+import Logout		from './auth/components/page-logout.jsx';
+import Register	from './register/components/page-register.jsx';
 
-let
-	APP 			= require('./app-entry/components/app.jsx').APP,
-	Games 		= require('./games/components/page-games.jsx'),
-	About 		= require('./about/components/page-about.jsx'),
-	Scores 		= require('./scores/components/page-scores.jsx'),
-	Contact 	= require('./contact/components/page-contact.jsx'),
-	Login			= require('./auth/components/page-login.jsx'),
-	Logout		= require('./auth/components/page-logout.jsx'),
-	Register	= require('./register/components/page-register.jsx')
-;
-
-let routes = (
-  <Route handler={APP}>
-    <Route name="games" handler={Games} />
-    <Route name="about" handler={About} />
-    <Route name="scores" handler={Scores} />
-    <Route name="contact" handler={Contact} />
-    <Route name="login" handler={Login} />
-    <Route name="logout" handler={Logout} />
-    <Route name="register" handler={Register} />
-  </Route>
+React.render(
+	<Router>
+		<Route path="/" component={Template}>
+			<Route path="games" component={Games} />
+	    <Route path="about" component={About} />
+	    <Route path="scores" component={Scores} />
+	    <Route path="contact" component={Contact} />
+	    <Route path="login" component={Login} />
+	    <Route path="logout" component={Logout} />
+	    <Route path="register" component={Register} />
+	  </Route>
+	</Router>,
+	document.getElementById('mainContainer')
 );
-
-Router.run(routes, function (Handler) {
-  React.render(<Handler />, document.getElementById('mainContainer'));
-});
