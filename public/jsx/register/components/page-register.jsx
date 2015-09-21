@@ -1,15 +1,14 @@
-var
+let
 	React 					= require('react'),
-	//Router 				= require('react-router'),
-	RegisterActions	= require('../actions/actions.jsx')
+	RegisterActions	= require('../actions/actions.jsx'),
 	RegisterStore 	= require('../stores/stores.jsx'),
 	ApiUtils				= require('../../shared/api.jsx')
 ;
 
-var RegisterContainer = React.createClass({
+let RegisterContainer = React.createClass({
 	 _doRegister: function(event) {
 	 	event.preventDefault();
-	 	var
+	 	let
 	 		username 		= React.findDOMNode(this.refs.username).value,
 	 		password 		= React.findDOMNode(this.refs.password).value,
 	 		confirmpass = React.findDOMNode(this.refs.confirmpass).value
@@ -45,7 +44,7 @@ var RegisterContainer = React.createClass({
 	},	
 
 	render: function() {
-		var errors = null;
+		let errors = null;
 		switch(this.state.registerStatus) {
 		 	case ApiUtils.LOADING_STATE.LOADING:
 		 		errors = 'loading...';

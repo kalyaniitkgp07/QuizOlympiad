@@ -1,4 +1,4 @@
-var keyMirron = require('keymirror');
+let keyMirron = require('keymirror');
 
 module.exports = keyMirron({
 	USER_REGISTER					: null,

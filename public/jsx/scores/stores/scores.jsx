@@ -1,12 +1,12 @@
-var Dispatcher = require('../../dispatchers/app-dispatcher.jsx');
-var ActionConstants = require('../actions/constants.jsx');
-var EventEmitter = require('events').EventEmitter;
-var React = require('react/addons');
+let Dispatcher = require('../../dispatchers/app-dispatcher.jsx');
+let ActionConstants = require('../actions/constants.jsx');
+let EventEmitter = require('events').EventEmitter;
+let React = require('react/addons');
 
-var CHANGE_EVENT = "change";
+let CHANGE_EVENT = "change";
 
 
-var _score = 30;
+let _score = 30;
 
 function _storeScore(scr){
   _score = scr;
@@ -15,7 +15,7 @@ function _storeScore(scr){
 
 
 
-var Store = React.addons.update(EventEmitter.prototype, { $merge: {
+let Store = React.addons.update(EventEmitter.prototype, { $merge: {
   emitChange: function(){
     this.emit(CHANGE_EVENT);
   },
@@ -33,7 +33,7 @@ var Store = React.addons.update(EventEmitter.prototype, { $merge: {
   },
 
   dispatcherIndex: Dispatcher.register(function(payload){
-    var action = payload.action; // this is our action from handleViewAction
+    let action = payload.action; // this is our action from handleViewAction
     switch(action.actionType){
       case ActionConstants.STORE_SCORE:
       	_storeScore(action.data);

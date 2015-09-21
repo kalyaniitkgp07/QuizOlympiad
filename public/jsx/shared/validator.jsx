@@ -12,9 +12,9 @@ function _matchPassword(password, confirmpass) {
 	}
 }
 
-var register = function ValidateRegisterArgumnets(args) {
+let register = function ValidateRegisterArgumnets(args) {
 	console.log('ARGS::::', args);
-	var valRes = _validateUsername(args.username);
+	let valRes = _validateUsername(args.username);
 	if(valRes.status) {
 		valRes = _validatePassword(args.password);
 	}

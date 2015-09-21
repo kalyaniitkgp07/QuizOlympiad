@@ -1,4 +1,4 @@
-var
+let
   EventEmitter    = require('events').EventEmitter,
   React           = require('react/addons'),
   Dispatcher      = require('../../dispatchers/app-dispatcher.jsx'),
@@ -8,9 +8,9 @@ var
   ApiUtils        = require('../../shared/api.jsx')
 ;
 
-var CHANGE_EVENT = "change";
+let CHANGE_EVENT = "change";
 
-var
+let
   _loginStatus  = !!LocalStorage.get(STORAGE_KEYS.AUTH_TOKEN)
                     ? ApiUtils.LOADING_STATE.SUCCESS
                     : ApiUtils.LOADING_STATE.FAILURE,
@@ -29,7 +29,7 @@ function _storeLoginData(response) {
   }
 }
 
-var AuthStore = React.addons.update(EventEmitter.prototype, {$merge: {
+let AuthStore = React.addons.update(EventEmitter.prototype, {$merge: {
   getLoginStatus: function() {
     return _loginStatus;  
   },
@@ -59,7 +59,7 @@ var AuthStore = React.addons.update(EventEmitter.prototype, {$merge: {
   },
 
   dispatcherIndex:Dispatcher.register(function(payload){
-    var action = payload.action;
+    let action = payload.action;
     switch(action.actionType){
       case ActionConstatns.AUTH_LOG_IN:
         _storeLoginData({

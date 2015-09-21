@@ -1,5 +1,4 @@
-/** @jsx React.DOM */
-var
+let
 	React = require('react'),
 	//AppStore = require('../stores/app-store.js'),
 	//AppActions = require('../actions/app-actions.js'),
@@ -10,7 +9,7 @@ function getCart() {
   return AppStore.getCart();
 }
 
-var Template = 
+let Template = 
 	React.createClass({
 		/*
     handleClick: function(){

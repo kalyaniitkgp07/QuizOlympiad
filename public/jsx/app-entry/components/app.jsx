@@ -1,11 +1,10 @@
-/** @jsx React.DOM */
-var
+let
 	React 				= require('react'),
 	RouteHandler 	= require('react-router').RouteHandler,
 	Template 			= require('./app-template.jsx')
 ;
 
-var APP = React.createClass({
+let APP = React.createClass({
   render: function () {
     return (
       <Template>

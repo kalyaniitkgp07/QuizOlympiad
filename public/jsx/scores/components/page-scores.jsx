@@ -1,12 +1,12 @@
-var
+let
 	React = require('react'),
 	ScoreStore = require('../stores/scores.jsx'),
 	Actions	= require('../actions/actions.jsx')
 ;
 
-var ScoresPage = React.createClass({
+let ScoresPage = React.createClass({
 	_generateScore: function() {
-		var scr = Math.random();
+		let scr = Math.random();
 		Actions.storeScore(scr);
 	},
 	_getScoreStore: function() {

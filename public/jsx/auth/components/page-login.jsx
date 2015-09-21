@@ -1,4 +1,4 @@
-var
+let
 	React 			= require('react'),
 	Router 			= require('react-router'),
 	AuthStore 	= require('../stores/stores.jsx'),
@@ -6,10 +6,12 @@ var
 	ApiUtils		= require('../../shared/api.jsx')
 ;
 
-var LoginContainer = React.createClass({
+let LoginContainer = React.createClass({
+	mixins: [Router.History],
+
 	_doLogin: function(event) {
 		event.preventDefault();
-		var
+		let
 			username = React.findDOMNode(this.refs.username).value,
 			password = React.findDOMNode(this.refs.password).value
 		;
@@ -40,7 +42,7 @@ var LoginContainer = React.createClass({
 	},	
 
 	render: function() {
-		var errors = null;
+		let errors = null;
 		switch(this.state.loginStatus) {
 			case ApiUtils.LOADING_STATE.LOADING:
 				errors = 'loading...';

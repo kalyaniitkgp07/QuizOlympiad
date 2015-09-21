@@ -1,4 +1,4 @@
-var
+let
   EventEmitter    = require('events').EventEmitter,
   React           = require('react/addons'),
   Dispatcher      = require('../../dispatchers/app-dispatcher.jsx'),
@@ -8,7 +8,7 @@ var
   STORAGE_KEYS    = require('../../shared/storage-keys.jsx')
 ;
 
-var
+let
 	CHANGE_EVENT		= 'change',
 	_registerStatus = ApiUtils.LOADING_STATE.NOT_REQUESTED,
 	_registerError	= null,
@@ -24,7 +24,7 @@ function _storeRegisterData(response) {
   }
 }
 
-var RegisterStore = React.addons.update(EventEmitter.prototype, {$merge: {
+let RegisterStore = React.addons.update(EventEmitter.prototype, {$merge: {
   getRegisterStatus: function() {
     return _registerStatus;  
   },
@@ -50,7 +50,7 @@ var RegisterStore = React.addons.update(EventEmitter.prototype, {$merge: {
   },
 
   dispatcherIndex:Dispatcher.register(function(payload) {
-    var action = payload.action;
+    let action = payload.action;
     switch(action.actionType) {
       case ActionConstatns.USER_REGISTER:
         _storeRegisterData({

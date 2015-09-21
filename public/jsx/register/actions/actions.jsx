@@ -1,13 +1,13 @@
-var
+let
   ActionConstants = require('./constants.jsx'),
   Dispatcher      = require('../../dispatchers/app-dispatcher.jsx'),
   CSRFToken       = require('../../shared/csrf.jsx'),
   Validator				= require('../../shared/validator.jsx')
 ;
 
-var RegisterActions = {
+let RegisterActions = {
 	doRegister: function(regArgs) {
-		var validateStatus = Validator.register(regArgs);
+		let validateStatus = Validator.register(regArgs);
 		if(validateStatus.status) {
 	 		// sign up
 	 		Dispatcher.handleAction({

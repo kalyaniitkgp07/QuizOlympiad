@@ -1,4 +1,4 @@
-var
+let
 	React 				= require('react'),
 	Router 				= require('react-router'),
 	Route 				= Router.Route,
@@ -6,7 +6,7 @@ var
 	Link 					= Router.Link
 ;
 
-var
+let
 	APP 			= require('./app-entry/components/app.jsx').APP,
 	Games 		= require('./games/components/page-games.jsx'),
 	About 		= require('./about/components/page-about.jsx'),
@@ -17,7 +17,7 @@ var
 	Register	= require('./register/components/page-register.jsx')
 ;
 
-var routes = (
+let routes = (
   <Route handler={APP}>
     <Route name="games" handler={Games} />
     <Route name="about" handler={About} />

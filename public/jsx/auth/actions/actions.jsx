@@ -1,11 +1,11 @@
-var
+let
   ActionConstants = require('./constants.jsx'),
   Dispatcher      = require('../../dispatchers/app-dispatcher.jsx'),
   CSRFToken       = require('../../shared/csrf.jsx')
 ;
 
 
-var AuthActions = {
+let AuthActions = {
   doLogin: function(username, password) {
     Dispatcher.handleAction({
       actionType: ActionConstants.AUTH_LOG_IN,

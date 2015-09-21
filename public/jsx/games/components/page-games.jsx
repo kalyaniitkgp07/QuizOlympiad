@@ -1,6 +1,6 @@
-var React = require('react');
+let React = require('react');
 
-var GamesPage = React.createClass({
+let GamesPage = React.createClass({
 	render: function() {
 		return (
 			<div>

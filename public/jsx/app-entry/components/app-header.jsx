@@ -1,16 +1,15 @@
-/** @jsx React.DOM */
-var React = require('react');
-var Router = require('react-router');
-var Route = Router.Route;
-var RouteHandler = Router.RouteHandler;
-//var auth = require('../../stores/app-auth'); // TODO / USE DISPATCHER & ACTIONS
-//var Login = require('../auth/app-login');
-//var AppActions = require('../../actions/app-actions.js');
-//var AuthStore = require('../../stores/app-auth.js');
-var Link = Router.Link;
+let React = require('react');
+let Router = require('react-router');
+let Route = Router.Route;
+let RouteHandler = Router.RouteHandler;
+//let auth = require('../../stores/app-auth'); // TODO / USE DISPATCHER & ACTIONS
+//let Login = require('../auth/app-login');
+//let AppActions = require('../../actions/app-actions.js');
+//let AuthStore = require('../../stores/app-auth.js');
+let Link = Router.Link;
 
 
-var Header = React.createClass({
+let Header = React.createClass({
   /*
   getInitialState: function () {
     return AuthStore.getState();
@@ -23,7 +22,7 @@ var Header = React.createClass({
   },
   */
   render: function () {
-    //var loginOrOut = this.state.loggedIn ?
+    //let loginOrOut = this.state.loggedIn ?
     //  <Link to="logout">Log out</Link> :
     //  <Link to="login">Sign in</Link>;
     return (

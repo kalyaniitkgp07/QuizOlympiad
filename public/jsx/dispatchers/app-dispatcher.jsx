@@ -1,9 +1,8 @@
-/** @jsx React.DOM */
 
-var Dispatcher = require('flux').Dispatcher;
-var assign = require('object-assign');
+let Dispatcher = require('flux').Dispatcher;
+let assign = require('object-assign');
 
-var AppDispatcher = assign(new Dispatcher(), {
+let AppDispatcher = assign(new Dispatcher(), {
   handleAction: function(action){
     console.log("*****start handleViewAction******");
     console.log(action);

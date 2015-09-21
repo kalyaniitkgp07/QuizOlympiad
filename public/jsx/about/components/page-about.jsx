@@ -1,6 +1,6 @@
-var React = require('react');
+let React = require('react');
 
-var AboutPage = React.createClass({
+let AboutPage = React.createClass({
 	render: function() {
 		return (
 			<div>

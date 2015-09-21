@@ -1,4 +1,4 @@
-var LOADING_STATE = {
+let LOADING_STATE = {
 	NOT_REQUESTED	: 0,
 	LOADING 			: 1,
 	SUCCESS				: 2,

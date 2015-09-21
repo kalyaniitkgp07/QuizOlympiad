@@ -1,9 +1,9 @@
-var
+let
 	React 			= require('react'),
 	AuthActions = require('../actions/actions.jsx')
 ;
 
-var Login = React.createClass({
+let Login = React.createClass({
 	componentDidMount: function() {
 		AuthActions.doLogout();
 	},
