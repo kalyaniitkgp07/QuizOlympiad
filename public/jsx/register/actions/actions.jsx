@@ -1,7 +1,6 @@
 let
   ActionConstants = require('./constants.jsx'),
   Dispatcher      = require('../../dispatchers/app-dispatcher.jsx'),
-  CSRFToken       = require('../../shared/csrf.jsx'),
   Validator				= require('../../shared/validator.jsx')
 ;
 
@@ -18,7 +17,6 @@ let RegisterActions = {
 	 			data			: {
 	 				username: regArgs.username,
 	 				password: regArgs.password,
-	 				_csrf		: CSRFToken.get()
 	 			},
 	 			dataType	: 'json',
 	 			method		: 'post',

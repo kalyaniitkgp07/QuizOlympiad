@@ -1,7 +1,6 @@
 let
   ActionConstants = require('./constants.jsx'),
-  Dispatcher      = require('../../dispatchers/app-dispatcher.jsx'),
-  CSRFToken       = require('../../shared/csrf.jsx')
+  Dispatcher      = require('../../dispatchers/app-dispatcher.jsx')
 ;
 
 
@@ -15,7 +14,6 @@ let AuthActions = {
       data      : {
         username: username,
         password: password,
-        _csrf   : CSRFToken.get()
       },
       dataType  : 'json',
       method    : 'post',

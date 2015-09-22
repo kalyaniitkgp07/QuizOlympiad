@@ -85,7 +85,7 @@ let AuthStore = React.addons.update(EventEmitter.prototype, {$merge: {
       case ActionConstatns.AUTH_LOG_OUT:
         _storeLoginData({
           status  : ApiUtils.LOADING_STATE.FAILURE,
-          error   : null,
+          error   : 'Successfully logout.',
           result  : null,
         });
         break;

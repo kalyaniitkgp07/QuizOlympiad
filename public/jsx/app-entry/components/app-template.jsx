@@ -1,7 +1,5 @@
-let
-	React = require('react'),
-	Header = require('./app-header.jsx')
-;
+import React  from 'react';
+import Header from './app-header.jsx';
 
 function getCart() {
   return AppStore.getCart();

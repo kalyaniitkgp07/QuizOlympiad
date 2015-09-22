@@ -17,10 +17,11 @@
         <!-- //js -->
 
         <link href='/css/fonts/fonts.raleway.css' rel='stylesheet' type='text/css'>
+        
     </head>
     
     <!-- TODO: move csrf to cookie -->
-    <body data-csrf="{_csrf}">
+    <body>
         <div id="mainContainer"></div>
         <!-- for bootstrap working -->
         <script src="/js/fallbacks/bootstrap.js"> </script>

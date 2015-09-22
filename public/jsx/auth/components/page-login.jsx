@@ -1,13 +1,11 @@
-let
-	React 			= require('react'),
-	Router 			= require('react-router'),
-	AuthStore 	= require('../stores/stores.jsx'),
-	AuthActions	= require('../actions/actions.jsx'),
-	ApiUtils		= require('../../shared/api.jsx')
-;
+import React 								from 'react';
+import { Router, History }	from 'react-router';
+import AuthStore 						from '../stores/stores.jsx';
+import AuthActions					from '../actions/actions.jsx';
+import ApiUtils							from '../../shared/api.jsx';
 
 let LoginContainer = React.createClass({
-	mixins: [Router.History],
+	mixins: [History],
 
 	_doLogin: function(event) {
 		event.preventDefault();
@@ -31,6 +29,18 @@ let LoginContainer = React.createClass({
 
 	componentDidMount: function() {
 		AuthStore.addChangeListener(this._onAuthChange);
+	},
+
+	componentDidUpdate: function() {
+		if(AuthStore.isLoggedIn()) {
+			var { location } = this.props;
+		
+      if (location.state && location.state.nextState) {
+        this.history.replaceState(null, location.state.nextState);
+      } else {
+        this.history.replaceState(null, '/contact');
+      }
+		}
 	},
 
 	componentWillUnmount: function() {
