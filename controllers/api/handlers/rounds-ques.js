@@ -7,6 +7,7 @@ var
 module.exports = {
 	getMethod: function(req, res) {
 		var
+			tidname	= req.params.tidname,
 			gidname = req.params.gidname,
 			ridname = req.params.ridname
 		;
@@ -14,6 +15,7 @@ module.exports = {
 		var
 			query = {
 				'GameIdName': gidname,
+				'TournamentInfo.TournamentName': tidname,
 				'GameRounds.RoundIdName': ridname
 			},
 			projection = {
@@ -30,7 +32,7 @@ module.exports = {
 					error		: err,
 					result	: null
 				});
-			} else {
+			} else if(roundQuestions) {
 				var
 					qIds 							= [],
 					roundQuestionsObj = roundQuestions.toObject(),
@@ -68,8 +70,18 @@ module.exports = {
 					});
 					// TODO: remove AnswerIndices, AnswerMediaUrl, AnswerHintText
 					// for non-admin if IsRoundPlayed = false 
-					res.json(roundQuestionsObj);
-				});				
+					res.json({
+						status	: true,
+						error 	: null,
+						result	: {roundQuestions : roundQuestionsObj}
+					});
+				});
+			} else {
+				res.json({
+					status	: false,
+					error 	: 'Bad request.',
+					result	: null,
+				});
 			}
 		});
 	}

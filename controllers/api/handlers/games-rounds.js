@@ -4,9 +4,11 @@ var Game = require('../../../models/games');
 module.exports = {
 	getMethod: function(req, res) {
 		var
-			idname 	= req.params.idname,
+			gidname 	= req.params.gidname,
+			tidname		= req.params.tidname,
 			query		= {
-				GameIdName: idname 
+				GameIdName: gidname,
+				'TournamentInfo.TournamentName': tidname
 			},
 			projection	= {
 				'GameRounds.RoundIdName'			: 1,

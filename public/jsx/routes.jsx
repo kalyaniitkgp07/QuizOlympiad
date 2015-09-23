@@ -10,7 +10,7 @@ import Login 			from './auth/components/page-login.jsx';
 import Logout			from './auth/components/page-logout.jsx';
 import Register		from './register/components/page-register.jsx';
 
-function requiredLogin(nextState, replaceState) {
+function requiredAuth(nextState, replaceState) {
 	if(!AuthStore.isLoggedIn()) {
 		replaceState({nextState: nextState.location.pathname}, '/login');
 	}
@@ -18,13 +18,14 @@ function requiredLogin(nextState, replaceState) {
 
 let routes = (
 	<Route path="/" component={Template}>
-		<Route path="games" component={Games} onEnter={requiredLogin}/>
+		<Route path="register" component={Register} />
+		<Route path="login" component={Login} />
+  	<Route path="logout" component={Logout} />
+  	<Route path="games" component={Games} onEnter={requiredAuth}/>
   	<Route path="about" component={About} />
   	<Route path="scores" component={Scores} />
   	<Route path="contact" component={Contact} />
-  	<Route path="login" component={Login} />
-  	<Route path="logout" component={Logout} />
-  	<Route path="register" component={Register} />
+  	
 	</Route>
 );
 
