@@ -1,0 +1,97 @@
+html, body {
+    font-family: 'Roboto', 'Helvetica', sans-serif;
+}
+.dqo-avatar {
+    font-size: 48px;
+    border-radius: 24px;
+}
+.dqo-layout {
+    .dqo-header {
+        .mdl-textfield {
+            padding-top: 27px;
+        }
+    }
+    .mdl-layout__header {
+        .mdl-layout__drawer-button {
+            color: rgba(0, 0, 0, 0.54);
+        }
+    }
+    .dqo-navigation {
+        .mdl-navigation__link {
+            display: flex !important;
+            flex-direction: row;
+            align-items: center;
+            color: rgba(255, 255, 255, 0.56);
+            font-weight: 500;
+        }
+        .mdl-navigation__link:hover {
+            background-color: #00BCD4;
+            color: #37474F;
+        }
+    }
+}
+.mdl-layout__drawer {
+    .avatar {
+        margin-bottom: 16px;
+    }
+}
+.dqo-drawer {
+    border: none;
+    .mdl-menu__container {
+        z-index: -1;
+    }
+    .dqo-navigation {
+        z-index: -2;
+    }
+    .mdl-menu {
+        .mdl-menu__item {
+            display: flex;
+            align-items: center;
+        }
+    }
+}
+.dqo-drawer-header {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 16px;
+    height: 151px;
+}
+.dqo-avatar-dropdown {
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+}
+.dqo-navigation {
+    flex-grow: 1;
+    hr {
+        margin: 0;
+    }
+    .dqo-navigation__group-heading {
+        padding-left: 16px;
+        color: @clr-grey-400;
+        font-size: 11px;
+    }
+    .mdl-navigation__link {
+        .dqo-navigation__icon {
+            vertical-align: middle;
+            color: @clr-grey-600;
+            margin-right: 32px;
+            width: 20px;
+            &.fa{
+                font-size: 20px;
+            }
+            &.material-icons{
+                font-size: 24px;
+            }
+        }
+        &.active {
+            .dqo-navigation__icon {
+                color: @clr-accent;
+            }
+        }
+    }
+}
