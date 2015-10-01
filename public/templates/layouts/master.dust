@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html ng-app="QuizApp">
+<html data-app="DaffodilsQuizOlympiad">
     <head>
         <title>{+title /}</title>
         <!-- for-mobile-apps -->
@@ -8,10 +8,10 @@
         <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
                 function hideURLbar(){ window.scrollTo(0,1); } </script>
         <!-- //for-mobile-apps -->
-        <link href="/css/fallbacks/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-        <link href="/css/fallbacks/style.css" rel="stylesheet" type="text/css" media="all" />
+        <!--link href="/css/fallbacks/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="/css/fallbacks/style.css" rel="stylesheet" type="text/css" media="all" /-->
         <link href="/css/fallbacks/font-awesome.min.css" rel="stylesheet">
-        <link rel="stylesheet" href="/css/app.css">
+        <link rel="stylesheet" href="//cdn.jsdelivr.net/flexboxgrid/6.3.0/flexboxgrid.min.css" type="text/css" >
         <!-- js -->
         <script src="/js/fallbacks/jquery-1.11.1.min.js"></script>
         <!-- //js -->

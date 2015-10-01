@@ -7,7 +7,8 @@ module.exports = {
     devtool: 'eval-source-map',
     module: {
         loaders: [
-            { test: /\.jsx$/, loader: "babel" }
+            { test: /\.jsx$/,   loader: "babel" },
+            { test: /\.less$/,  loader: "style!css!less"}
         ]
     }
 }
