@@ -54,16 +54,6 @@ const Master = React.createClass({
       this._getHeaderTitleStore()
     ));
   },
-
-  childContextTypes : {
-    muiTheme: React.PropTypes.object
-  },
-
-  getChildContext() {
-    return {
-      muiTheme: this.state.muiTheme,
-    };
-  },
   
   componentDidMount() {
     HeaderTitleStore.addChangeListener(this._onHeaderTitleChange);

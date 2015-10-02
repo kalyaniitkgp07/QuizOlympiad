@@ -1,15 +1,12 @@
 import React 		from 'react';
-import {Router} from 'react-router';
 import injectTapEventPlugin from 'react-tap-event-plugin';
-import routes		from './routes.jsx';
+import AppContainer from './app-container.jsx';
 
 require('../less/styles.less');
 
 injectTapEventPlugin();
 
 React.render(
-	<Router>
-		{routes}
-	</Router>,
+	<AppContainer />,
 	document.getElementById('mainContainer')
 );
