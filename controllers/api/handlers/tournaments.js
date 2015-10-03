@@ -11,15 +11,8 @@ module.exports = {
 				TournamentDisplayName	: 1
 			}
 		;
-		Tournament.find(query, projection, function(err, tournamentList) {
-			if(err) {
-				console.log('ERROR:::\n\tsrc: /tournaments/\n\terror', err);
-				res.json({
-					status	: false,
-					error		: null,
-					result	: null,
-				});
-			} else {
+		Tournament.find(query, projection)
+			.then(function(tournamentList) {
 				res.json({
 					status			: true,
 					error				: null,
@@ -27,7 +20,12 @@ module.exports = {
 						tournamentList 	: tournamentList,
 					},
 				});
-			}
-		});
+			}).then(null, function(err) {
+				res.json({
+					status	: false,
+					error		: err,
+					result	: null,
+				});
+			});
 	}
 }
