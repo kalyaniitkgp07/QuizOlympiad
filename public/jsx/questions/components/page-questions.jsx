@@ -4,6 +4,7 @@ import Actions					from '../actions/actions.jsx';
 import ParamUtils				from '../../shared/param.jsx';
 import ApiUtils					from '../../shared/api.jsx';
 import QuestionSelect		from './QuestionSelect.jsx';
+import QuestionDetails	from './QuestionDetails.jsx';
 
 const QuestionsPage = React.createClass({
 	_getQuestionsStore() {
@@ -48,8 +49,17 @@ const QuestionsPage = React.createClass({
 		return (
 			<div>
 				{this.props.params.qindex
-					? this.props.children
-					: <QuestionSelect />
+					? (
+							<QuestionDetails
+								questionsResponse = {this.state.questionsResponse}
+								params            = {this.props.params}
+							/>
+						)
+					: (
+							<QuestionSelect
+								questionsResponse = {this.state.questionsResponse}
+							/>
+						)
 				}
 			</div>
 		);

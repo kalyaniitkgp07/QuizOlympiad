@@ -12,7 +12,6 @@ import TournamentsPage	from './tournaments/components/page-tournaments.jsx';
 import GamesPage		from './games/components/page-games.jsx';
 import RoundsPage		from './rounds/components/page-rounds.jsx';
 import QustionsPage	from './questions/components/page-questions.jsx';
-import QustionDetailsPage from './questions/components/page-question-details.jsx';
 
 function requiredAuth(nextState, replaceState) {
 	if(!AuthStore.isLoggedIn()) {
@@ -62,12 +61,11 @@ let routes = (
   	<Route 
       path      = "tournaments/:tidname/games/:gidname/rounds/:ridname/questions"
       component = {QustionsPage}
-    >
-      <Route
-      path      = ":qindex"
-      component = {QustionDetailsPage}
-      />
-  	</Route>
+    />
+    <Route
+      path      = "tournaments/:tidname/games/:gidname/rounds/:ridname/questions/:qindex"
+      component = {QustionsPage}
+    />
 	</Route>
 );
 

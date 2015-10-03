@@ -3,6 +3,8 @@ import RoundsStore	from '../stores/game-rounds.jsx';
 import Actions			from '../actions/actions.jsx';
 import ApiUtils			from '../../shared/api.jsx';
 import ParamUtils		from '../../shared/param.jsx';
+import {
+	CircularProgress} from 'material-ui';
 
 let RoundsPage = React.createClass({
 	_getRoundsStore() {
@@ -35,9 +37,26 @@ let RoundsPage = React.createClass({
 	},
 
 	render() {
+		const
+			roundsResponse 	= this.state.roundsResponse
+		;
+		let renderHtml = null;
+		if(ApiUtils.hasLoaded(roundsResponse)) {
+			const allRounds	= roundsResponse.result.roundList[0].GameRounds;
+			renderHtml = $.map(allRounds, (roundInfo) => {
+				return(
+					<div key={roundInfo.RoundIdName}>{roundInfo.RoundDisplayName}</div>
+				);
+			});
+		} else if(ApiUtils.hasFailed(roundsResponse)) {
+			// TODO-ALERT: 
+		} else {
+			renderHtml = <CircularProgress mode="indeterminate" size={1.5} />;
+		}
+
 		return (
 			<div>
-				ROUNDS PAGE
+				{renderHtml}
 			</div>
 		);
 	},
