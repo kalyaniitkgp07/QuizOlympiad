@@ -4,13 +4,13 @@ var Game = require('../../../models/games');
 module.exports = {
 	getMethod: function(req, res) {
 		var
-			gidname 	= req.params.gidname,
-			tidname		= req.params.tidname,
-			query		= {
+			gidname    = req.params.gidname,
+			tidname    = req.params.tidname,
+			query      = {
 				GameIdName: gidname,
 				'TournamentInfo.TournamentName': tidname
 			},
-			projection	= {
+			projection = {
 				'GameRounds.RoundIdName'			: 1,
 				'GameRounds.RoundDisplayName'	: 1,
 				'GameRounds.RoundRules'				: 1
