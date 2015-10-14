@@ -4,11 +4,10 @@ var mongoose = require('mongoose');
 
 var gameModel = function() {
 	var gameSchema = mongoose.Schema(
+		{},
 		{
-			GameIdName: String
-		},
-		{
-			collection: 'Games'
+			collection : 'Games',
+			strict     : false
 		}
 	);
 

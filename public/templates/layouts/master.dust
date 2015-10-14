@@ -1,20 +1,29 @@
 <!DOCTYPE html>
-<html ng-app="QuizApp">
+<html data-app="DaffodilsQuizOlympiad">
     <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="//fonts.googleapis.com/icon?family=Material+Icons">
-        <link href='http://fonts.which is googleapis.com/css?family=Roboto:400,300,300italic,500,400italic,700,700italic' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" href="//storage.googleapis.com/code.getmdl.io/1.0.1/material.green-amber.min.css" />
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-        <link rel="stylesheet" href="/css/app.css" />
+        <title>{+title /}</title>
+        <!-- for-mobile-apps -->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+                function hideURLbar(){ window.scrollTo(0,1); } </script>
+        <!-- //for-mobile-apps -->
+        <!--link href="/css/fallbacks/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+        <link href="/css/fallbacks/style.css" rel="stylesheet" type="text/css" media="all" /-->
+        <link href="/css/fallbacks/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="//cdn.jsdelivr.net/flexboxgrid/6.3.0/flexboxgrid.min.css" type="text/css" >
+        <!-- js -->
+        <script src="/js/fallbacks/jquery-1.11.1.min.js"></script>
+        <!-- //js -->
+
+        <link href='/css/fonts/fonts.raleway.css' rel='stylesheet' type='text/css'>
         
     </head>
     
+    <!-- TODO: move csrf to cookie -->
     <body>
         <div id="mainContainer"></div>
-        <script src="//storage.googleapis.com/code.getmdl.io/1.0.1/material.min.js"></script>
-    
+        <!-- webpack generated script -->
         <script src="/js/main.js"></script>
-    
     </body>
 </html>

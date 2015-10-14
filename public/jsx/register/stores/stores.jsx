@@ -34,7 +34,7 @@ let RegisterStore = React.addons.update(EventEmitter.prototype, {$merge: {
   },
 
   getAuthToken: function() {
-    return _authToken;
+    return JSON.parse(LocalStorage.get(STORAGE_KEYS.AUTH_TOKEN));
   },
 
   emitChange:function(){

@@ -1,8 +1,9 @@
-import React 								from 'react';
-import { Router, History }	from 'react-router';
-import AuthStore 						from '../stores/stores.jsx';
-import AuthActions					from '../actions/actions.jsx';
-import ApiUtils							from '../../shared/api.jsx';
+import React 				from 'react';
+import {Router, 
+				History }		from 'react-router';
+import AuthStore 		from '../stores/stores.jsx';
+import AuthActions	from '../actions/actions.jsx';
+import ApiUtils			from '../../shared/api.jsx';
 
 let LoginContainer = React.createClass({
 	mixins: [History],

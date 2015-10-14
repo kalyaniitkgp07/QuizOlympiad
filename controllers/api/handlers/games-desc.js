@@ -29,5 +29,7 @@ module.exports = {
 				});
 			}
 		});
+		//Game.find(query, projection).exec()
+		//	.then
 	}
 }

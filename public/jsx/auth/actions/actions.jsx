@@ -1,8 +1,5 @@
-let
-  ActionConstants = require('./constants.jsx'),
-  Dispatcher      = require('../../dispatchers/app-dispatcher.jsx')
-;
-
+import ActionConstants from './constants.jsx';
+import Dispatcher      from '../../dispatchers/app-dispatcher.jsx';
 
 let AuthActions = {
   doLogin: function(username, password) {
