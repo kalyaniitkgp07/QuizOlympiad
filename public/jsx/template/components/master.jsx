@@ -77,7 +77,7 @@ const Master = React.createClass({
         <header>
           {this._getAppHeader()}
         </header>
-        <main>
+        <main className="col-xs-12">
           {this.props.children}
         </main>
         <nav>

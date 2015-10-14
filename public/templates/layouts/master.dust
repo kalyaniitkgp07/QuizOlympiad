@@ -23,9 +23,6 @@
     <!-- TODO: move csrf to cookie -->
     <body>
         <div id="mainContainer"></div>
-        <!-- for bootstrap working -->
-        <script src="/js/fallbacks/bootstrap.js"> </script>
-        <!-- //for bootstrap working -->
         <!-- webpack generated script -->
         <script src="/js/main.js"></script>
     </body>
