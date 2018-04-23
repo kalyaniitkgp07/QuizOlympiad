@@ -1,0 +1,1195 @@
+START-OF-FILE
+START-OF-DATA
+exchangeTraded	USD/RUB X-RATE    Dec17	SiZ7|TICKER|||RUB	646.0			add|allowNegativeRates|1			Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AALBERTS INDUSTRIES NV	NL0000852564|ISIN|	-270.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ANHEUSER-BUSCH INBEV SA/NV	BE0974293251|ISIN|	-6210.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ABLYNX NV	BE0003877942|ISIN|	179.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ABN AMRO GROUP NV-CVA	NL0011540547|ISIN|	-273.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CREDIT AGRICOLE SA	FR0000045072|ISIN|	5988.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ACKERMANS & VAN HAAREN	BE0003764785|ISIN|	526.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ACCOR SA	FR0000120404|ISIN|	6952.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KONINKLIJKE AHOLD DELHAIZE N	NL0011794037|ISIN|	1765.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AIR FRANCE-KLM	FR0000031122|ISIN|	-1244.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AGFA-GEVAERT NV	BE0003755692|ISIN|	126.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AEGON NV	NL0000303709|ISIN|	21253.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AGEAS	BE0974264930|ISIN|	746.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EADS NV	NL0000235190|ISIN|	-4513.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AIR LIQUIDE SA	FR0000120073|ISIN|	-1146.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ARKEMA	FR0010313833|ISIN|	20.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AKZO NOBEL	NL0000009132|ISIN|	-3836.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ALD SA	FR0013258662|ISIN|	542.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ALSTOM	FR0010220475|ISIN|	1134.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ALTRI SGPS SA	PTALT0AE0002|ISIN|	513.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ALTRAN TECHNOLOGIES SA	FR0000034639|ISIN|	28106.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AMUNDI SA	FR0004125920|ISIN|	7490.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	APERAM	LU0569974404|ISIN|	1903.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ARCADIS NV	NL0006237562|ISIN|	74.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ASML HOLDING NV	NL0010273215|ISIN|	-5524.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ASM INTERNATIONAL NV	NL0000334118|ISIN|	70.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ASR NEDERLAND NV	NL0011872643|ISIN|	2421.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ALTICE NV - B	NL0011333760|ISIN|	183.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ALTICE NV - A	NL0011333752|ISIN|	-14345.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ATOS SE	FR0000051732|ISIN|	908.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KONINKLIJKE BAM GROEP NV	NL0000337319|ISIN|	-228.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SOCIETE BIC SA	FR0000120966|ISIN|	-36.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BANCO COMERCIAL PORTUGUES-R	PTBCP0AM0015|ISIN|	12831.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BEKAERT NV	BE0974258874|ISIN|	1485.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BE SEMICONDUCTOR INDUSTRIES	NL0000339760|ISIN|	59.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BIOMERIEUX	FR0013280286|ISIN|	14205.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BNP PARIBAS	FR0000131104|ISIN|	14713.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DANONE	FR0000120644|ISIN|	782.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BOSKALIS WESTMINSTER	NL0000852580|ISIN|	2064.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BPOST SA	BE0974268972|ISIN|	1003.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BUREAU VERITAS SA	FR0006174348|ISIN|	188.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CAPGEMINI SE	FR0000125338|ISIN|	573.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CARMILA	FR0010828137|ISIN|	91.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CARREFOUR SA	FR0000120172|ISIN|	1892.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GROUPE CRIT	FR0000036675|ISIN|	148.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CFE	BE0003883031|ISIN|	34.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CNP ASSURANCES	FR0000120222|ISIN|	3096.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	COFINIMMO	BE0003593044|ISIN|	108.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	COLRUYT SA	BE0974256852|ISIN|	1134.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CORTICEIRA AMORIM SA	PTCOR0AE0006|ISIN|	855.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CASINO GUICHARD PERRACHON	FR0000125585|ISIN|	-50.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CORBION NV	NL0010583399|ISIN|	-2.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AXA SA	FR0000120628|ISIN|	-23226.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CTT-CORREIOS DE PORTUGAL	PTCTT0AM0001|ISIN|	2902.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VINCI SA	FR0000125486|ISIN|	-3569.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DIETEREN SA/NV	BE0974259880|ISIN|	9.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KONINKLIJKE DSM NV	NL0000009827|ISIN|	1931.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DASSAULT SYSTEMES SA	FR0000130650|ISIN|	22.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ECONOCOM GROUP	BE0974313455|ISIN|	98.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EDENRED	FR0010908533|ISIN|	-15344.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EDF	FR0010242511|ISIN|	-150.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EDP RENOVAVEIS SA	ES0127797019|ISIN|	3146.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EDP-ENERGIAS DE PORTUGAL SA	PTEDP0AM0009|ISIN|	-35496.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MOTA ENGIL SGPS SA	PTMEN0AE0005|ISIN|	-1043.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ESSILOR INTERNATIONAL	FR0000121667|ISIN|	453.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ELIS SA	FR0012435121|ISIN|	318.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ENGIE	FR0010208488|ISIN|	26206.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EURONEXT NV	NL0006294274|ISIN|	1242.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BOUYGUES SA	FR0000120503|ISIN|	-2662.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FAURECIA	FR0000121147|ISIN|	25494.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EUTELSAT COMMUNICATIONS	FR0010221234|ISIN|	20042.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EURONAV NV	BE0003816338|ISIN|	488.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FAGRON	BE0003874915|ISIN|	-186.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FONCIERE DES REGIONS	FR0000064578|ISIN|	-13.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FORFARMERS NV	NL0011832811|ISIN|	-5.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EIFFAGE	FR0000130452|ISIN|	103.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FLOW TRADERS	NL0011279492|ISIN|	-198.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TOTAL SA	FR0000120271|ISIN|	25142.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VALEO SA	FR0013176526|ISIN|	-4642.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TECHNIPFMC PLC	GB00BDSFG982|ISIN|	-1979.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FUGRO NV-CVA	NL0000352565|ISIN|	20784.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GALP ENERGIA SGPS SA	PTGAL0AM0009|ISIN|	989.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GROUPE BRUXELLES LAMBERT SA	BE0003797140|ISIN|	992.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GROUPE EUROTUNNEL SE - REGR	FR0010533075|ISIN|	-617.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SOCIETE GENERALE SA	FR0000130809|ISIN|	-9881.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GALAPAGOS NV	BE0003818359|ISIN|	345.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GENFIT	FR0004163111|ISIN|	118.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GEMALTO	NL0000400653|ISIN|	-13821.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GRANDVISION NV	NL0010937066|ISIN|	-60.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HEINEKEN NV	NL0000009165|ISIN|	602.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HEINEKEN HOLDING NV	NL0000008977|ISIN|	31.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	THALES SA	FR0000121329|ISIN|	101.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ION BEAM APPLICATIONS	BE0003766806|ISIN|	391.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	IBERSOL SGPS SA	PTIBS0AM0008|ISIN|	1167.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ILIAD SA	FR0004035913|ISIN|	126.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	IMCD GROUP NV	NL0010801007|ISIN|	-1127.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ING GROEP NV	NL0011821202|ISIN|	-37036.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INGENICO GROUP	FR0000125346|ISIN|	45.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INTERTRUST NV	NL0010937058|ISIN|	202.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INNATE PHARMA SA	FR0010331421|ISIN|	1285.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	JERONIMO MARTINS	PTJMT0AE0001|ISIN|	14432.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KBC GROEP NV	BE0003565737|ISIN|	-2507.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KERING	FR0000121485|ISIN|	2398.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KINEPOLIS	BE0974274061|ISIN|	59.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NATIXIS	FR0000120685|ISIN|	941.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KONINKLIJKE KPN NV	NL0000009082|ISIN|	-52330.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KONINKLIJKE VOLKERWESSELS	NL0012294466|ISIN|	71.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LAFARGEHOLCIM LTD-REG	CH0012214059|ISIN|	-11937.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PHILIPS LIGHTING NV	NL0011821392|ISIN|	31.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KLEPIERRE	FR0000121964|ISIN|	2517.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LEGRAND SA	FR0010307819|ISIN|	-3503.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MAUREL ET PROM	FR0000051070|ISIN|	880.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LVMH MOET HENNESSY LOUIS VUI	FR0000121014|ISIN|	-2000.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MELEXIS NV	BE0165385973|ISIN|	-7.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WENDEL	FR0000121204|ISIN|	-70.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MGI COUTIER	FR0000053027|ISIN|	-73.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MICHELIN (CGDE)	FR0000121261|ISIN|	-858.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LAGARDERE SCA	FR0000130213|ISIN|	163.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ARCELORMITTAL	LU1598757687|ISIN|	-6479.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NEOPOST SA	FR0000120560|ISIN|	70.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NEXANS SA	FR0000044448|ISIN|	71.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NN GROUP NV	NL0010773842|ISIN|	952.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NOS SGPS	PTZON0AM0006|ISIN|	-302.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NAVIGATOR CO SA/THE	PTPTI0AM0006|ISIN|	6267.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NYRSTAR NV	BE0974294267|ISIN|	2315.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ORANGE BELGIUM	BE0003735496|ISIN|	3124.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	OCI NV	NL0010558797|ISIN|	4399.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ONTEX GROUP NV	BE0974276082|ISIN|	468.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ORANGE	FR0000133308|ISIN|	-31140.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LOREAL	FR0000120321|ISIN|	1497.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KONINKLIJKE PHILIPS NV	NL0000009538|ISIN|	-4184.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PHAROL SGPS SA	PTPTC0AM0009|ISIN|	31955.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	POSTNL NV	NL0009739416|ISIN|	-34407.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PROXIMUS	BE0003810273|ISIN|	-12867.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PUBLICIS GROUPE	FR0000130577|ISIN|	2149.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RANDSTAD HOLDING NV	NL0000379121|ISIN|	-1412.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TELEPERFORMANCE	FR0000051807|ISIN|	4004.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	REMY COINTREAU	FR0000130395|ISIN|	3917.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ROYAL DUTCH SHELL PLC-A SHS	GB00B03MLX29|ISIN|	19429.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	REDES ENERGETICAS NACIONAIS	PTREL0AM0008|ISIN|	-16680.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RELX NV	NL0006144495|ISIN|	7273.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EURAZEO SA	FR0000121121|ISIN|	62.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PERNOD RICARD SA	FR0000120693|ISIN|	517.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HERMES INTERNATIONAL	FR0000052292|ISIN|	58.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RENAULT SA	FR0000131906|ISIN|	-4587.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	REXEL SA	FR0010451203|ISIN|	51.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SAFRAN SA	FR0000073272|ISIN|	-5745.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SANOFI	FR0000120578|ISIN|	-1293.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SBM OFFSHORE NV	NL0000360618|ISIN|	-14163.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SCOR SE	FR0010411983|ISIN|	355.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SEMAPA-SOCIEDADE DE INVESTIM	PTSEM0AM0004|ISIN|	1472.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SES	LU0088087324|ISIN|	49565.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SUEZ	FR0010613471|ISIN|	-1371.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	COMPAGNIE DE SAINT GOBAIN	FR0000125007|ISIN|	-3289.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SLIGRO FOOD GROUP NV	NL0000817179|ISIN|	-2.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SOFINA	BE0003717312|ISIN|	62.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	S.O.I.T.E.C.	FR0013227113|ISIN|	9.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SOLVAY SA	BE0003470755|ISIN|	-1491.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SONAE CAPITAL SGPS SA	PTSNP0AE0008|ISIN|	1666.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SONAE	PTSON0AM0001|ISIN|	18761.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	STMICROELECTRONICS NV	NL0000226223|ISIN|	-9083.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SCHNEIDER ELECTRIC SE	FR0000121972|ISIN|	-4962.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SODEXO SA	FR0000121220|ISIN|	-1118.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TESSENDERLO GROUP	BE0003555639|ISIN|	-114.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TAKEAWAY.COM NV	NL0012015705|ISIN|	-4.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TELENET GROUP HOLDING NV	BE0003826436|ISIN|	-492.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TOMTOM	NL0000387058|ISIN|	-153.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TKH GROUP NV-DUTCH CERT	NL0000852523|ISIN|	-31.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	UBISOFT ENTERTAINMENT	FR0000054470|ISIN|	334.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	UCB SA	BE0003739530|ISIN|	234.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PEUGEOT SA	FR0000121501|ISIN|	-3581.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	UNIBAIL-RODAMCO SE	FR0000124711|ISIN|	-103.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	UMICORE	BE0974320526|ISIN|	-6896.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	UNILEVER NV-CVA	NL0000009355|ISIN|	3204.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VASTNED RETAIL NV	NL0000288918|ISIN|	-116.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VEOLIA ENVIRONNEMENT	FR0000124141|ISIN|	-2607.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VIVENDI	FR0000127771|ISIN|	8946.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VALLOUREC SA	FR0000120354|ISIN|	43429.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VOPAK	NL0009432491|ISIN|	-8020.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WESSANEN	NL0000395317|ISIN|	181.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WERELDHAVE NV	NL0000289213|ISIN|	79.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WOLTERS KLUWER	NL0000395903|ISIN|	203.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ZODIAC AEROSPACE	FR0000125684|ISIN|	58.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GOLDEN OCEAN GROUP LTD	BMG396372051|ISIN|	1739.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CAIRN HOMES PLC	IE00BWY4ZF18|ISIN|	-2322.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	3I INFRASTRUCTURE PLC	JE00BYR8GK67|ISIN|	-57.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	888 HOLDINGS PLC	GI000A0F6407|ISIN|	-13.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ANGLO AMERICAN PLC	GB00B1XZS820|ISIN|	-5281.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AA PLC	GB00BMSKPJ95|ISIN|	-148935.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ASSOCIATED BRITISH FOODS PLC	GB0006731235|ISIN|	-22819.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ACACIA MINING PLC	GB00B61D2N63|ISIN|	-546.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ADMIRAL GROUP PLC	GB00B02J6398|ISIN|	8450.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AGGREKO PLC	GB00BK1PTB77|ISIN|	-1316.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ASSURA PLC	GB00BVGBWW93|ISIN|	2395.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ASHTEAD GROUP PLC	GB0000536739|ISIN|	4051.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ALDERMORE GROUP PLC	GB00BQQMCJ47|ISIN|	17861.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ALFA FINANCIAL SOFTWARE HOLD	GB00BDHXPG30|ISIN|	108.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ANTOFAGASTA PLC	GB0000456144|ISIN|	-5675.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ASCENTIAL PLC	GB00BYM8GJ06|ISIN|	-124.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ASHMORE GROUP PLC	GB00B132NW22|ISIN|	2385.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ABERFORTH SMALLER COS-ORD	GB0000066554|ISIN|	-361.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ALLIANCE TRUST PLC	GB00B11V7W98|ISIN|	-1744.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AUTO TRADER GROUP PLC	GB00BVYVFW23|ISIN|	-9897.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AVEVA GROUP PLC	GB00BBG9VN75|ISIN|	-27.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AVIVA PLC	GB0002162385|ISIN|	16650.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ASTRAZENECA PLC	GB0009895292|ISIN|	2807.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BABCOCK INTL GROUP PLC	GB0009697037|ISIN|	-5685.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	A.G. BARR PLC	GB00B6XZKY75|ISIN|	31.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BARCLAYS PLC	GB0031348658|ISIN|	305162.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BRITISH AMERICAN TOBACCO PLC	GB0002875804|ISIN|	-48767.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BAE SYSTEMS PLC	GB0002634946|ISIN|	23370.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BBA AVIATION PLC	GB00B1FP8915|ISIN|	-1064.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TRITAX BIG BOX REIT PLC	GB00BG49KP99|ISIN|	768.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BALFOUR BEATTY PLC	GB0000961622|ISIN|	-429.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BCA MARKETPLACE PLC	GB00BP0S1D85|ISIN|	1775.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BARRATT DEVELOPMENTS PLC	GB0000811801|ISIN|	-35207.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BEAZLEY PLC	GB00BYQ0JC66|ISIN|	1041.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BGEO GROUP PLC	GB00B759CR16|ISIN|	-1.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BIFFA PLC	GB00BD8DR117|ISIN|	1202.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BERKELEY GROUP HOLDINGS/THE	GB00B02L3W35|ISIN|	632.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BRITISH LAND CO PLC	GB0001367019|ISIN|	-4238.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BHP BILLITON PLC	GB0000566504|ISIN|	-38483.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	B&M EUROPEAN VALUE RETAIL SA	LU1072616219|ISIN|	-430.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BANKERS INVESTMENT TRUST	GB0000767003|ISIN|	264.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BUNZL PLC	GB00B0744B38|ISIN|	8152.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BOOKER GROUP PLC	GB00B01TND91|ISIN|	-10560.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BODYCOTE PLC	GB00B3FLWH99|ISIN|	-80.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BP PLC	GB0007980591|ISIN|	-20889.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BURBERRY GROUP PLC	GB0031743007|ISIN|	-724.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BREWIN DOLPHIN HOLDINGS PLC	GB0001765816|ISIN|	-70.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BRITISH EMPIRE TRUST PLC	GB0001335081|ISIN|	1251.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BTG PLC	GB0001001592|ISIN|	-3432.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BT GROUP PLC	GB0030913577|ISIN|	61177.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BRITVIC PLC	GB00B0N8QD54|ISIN|	-185.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BOVIS HOMES GROUP PLC	GB0001859296|ISIN|	-143.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BROWN (N) GROUP PLC	GB00B1P6ZR11|ISIN|	-157.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BELLWAY PLC	GB0000904986|ISIN|	-40.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BIG YELLOW GROUP PLC	GB0002869419|ISIN|	-97.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CAPITAL & COUNTIES PROPERTIE	GB00B62G9D36|ISIN|	-775.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CARD FACTORY PLC	GB00BLY2F708|ISIN|	-137.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CLOSE BROTHERS GROUP PLC	GB0007668071|ISIN|	2903.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	COMPUTACENTER PLC	GB00BV9FP302|ISIN|	-171.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	COCA-COLA HBC AG-DI	CH0198251305|ISIN|	1298.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CARNIVAL PLC	GB0031215220|ISIN|	2864.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CENTAMIN PLC	JE00B5TT1872|ISIN|	-1744.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CHEMRING GROUP PLC	GB00B45C9X44|ISIN|	-20.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	JIMMY CHOO PLC	GB00BQPW6Y82|ISIN|	-301.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CINEWORLD GROUP PLC	GB00B15FWH70|ISIN|	3.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CLARKSON PLC	GB0002018363|ISIN|	26.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CALEDONIA INVESTMENTS PLC	GB0001639920|ISIN|	-35.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CLS HOLDINGS PLC	GB00BF044593|ISIN|	-677.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CENTRICA PLC	GB00B033F229|ISIN|	70746.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CAIRN ENERGY PLC	GB00B74CDH82|ISIN|	-54925.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	COATS GROUP PLC	GB00B4YZN328|ISIN|	200.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	COBHAM PLC	GB00B07KD360|ISIN|	-10677.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	COMPASS GROUP PLC	GB00BD6K4575|ISIN|	-9841.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CAPITA PLC	GB00B23K0M20|ISIN|	2166.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CRODA INTERNATIONAL PLC	GB00BYZWX769|ISIN|	-162.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CRH PLC	IE0001827041|ISIN|	6048.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CREST NICHOLSON HOLDINGS	GB00B8VZXT93|ISIN|	17.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	COUNTRYSIDE PROPERTIES PLC	GB00BYPHNG03|ISIN|	-15.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CONVATEC GROUP PLC	GB00BD3VFW73|ISIN|	27229.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CITY OF LONDON INVESTMENT TR	GB0001990497|ISIN|	2436.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	COUNTRYWIDE PLC	GB00B9NWP991|ISIN|	-1482.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CRANSWICK PLC	GB0002318888|ISIN|	13.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CYBG PLC	GB00BD6GN030|ISIN|	-1413.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DCC PLC	IE0002424939|ISIN|	-930.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DAIRY CREST GROUP PLC	GB0002502812|ISIN|	1503.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DIXONS CARPHONE PLC	GB00B4Y7R145|ISIN|	-430147.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DIAGEO PLC	GB0002374006|ISIN|	3452.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DAEJAN HOLDINGS PLC	GB0002502036|ISIN|	29.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DIRECT LINE INSURANCE GROUP	GB00BY9D0Y18|ISIN|	26434.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DERWENT LONDON PLC	GB0002652740|ISIN|	-797.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DAILY MAIL&GENERAL TST-A NV	GB0009457366|ISIN|	-394.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DUNELM GROUP PLC	GB00B1CKQ739|ISIN|	-82.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DOMINOS PIZZA GROUP PLC	GB00BYN59130|ISIN|	57.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DECHRA PHARMACEUTICALS PLC	GB0009633180|ISIN|	-106.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DIPLOMA PLC	GB0001826634|ISIN|	114.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DRAX GROUP PLC	GB00B1VNSX38|ISIN|	-631.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DIGNITY PLC	GB00BRB37M78|ISIN|	-32.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ELECTROCOMPONENTS PLC	GB0003096442|ISIN|	2491.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EDINBURGH INVESTMENT TRUST	GB0003052338|ISIN|	155.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ELEMENTIS PLC	GB0002418548|ISIN|	-1036.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ELECTRA PRIVATE EQUITY PLC	GB0003085445|ISIN|	148.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MAN GROUP PLC	GB00B83VD954|ISIN|	11916.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EQUINITI GROUP PLC	GB00BYWWHR75|ISIN|	-675.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EUROMONEY INSTL INVESTOR PLC	GB0006886666|ISIN|	-203.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ESSENTRA PLC	GB00B0744359|ISIN|	7919.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ESURE GROUP PLC	GB00B8KJH563|ISIN|	12.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ENTERTAINMENT ONE LTD	CA29382B1022|ISIN|	-467.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EVRAZ PLC	GB00B71N6K86|ISIN|	148.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EXPERIAN PLC	GB00B19NLV48|ISIN|	-13856.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EASYJET PLC	GB00B7KR2P84|ISIN|	98.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	F&C COMMERCIAL PROPERTY TRUS	GG00B4ZPCJ00|ISIN|	-1036.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FIDELITY CHINA SPECIAL SITUA	GB00B62Z3C74|ISIN|	679.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FDM GROUP HOLDINGS PLC	GB00BLWDVP51|ISIN|	202.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FIDESSA GROUP PLC	GB0007590234|ISIN|	-14.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FENNER PLC	GB0003345054|ISIN|	944.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FERGUSON PLC	JE00BFNWV485|ISIN|	566.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FIDELITY EUROPEAN VALUES PLC	GB00BK1PKQ95|ISIN|	1330.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FIRSTGROUP PLC	GB0003452173|ISIN|	91.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FINSBURY GR&INC TRUST-ORD	GB0007816068|ISIN|	-77.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FOREIGN & COLONIAL INVEST TR	GB0003466074|ISIN|	225.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FRESNILLO PLC	GB00B2QPKJ12|ISIN|	396.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	JAMES FISHER & SONS PLC	GB0003395000|ISIN|	-41.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FERREXPO PLC	GB00B1XH2C03|ISIN|	220.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GCP INFRASTRUCTURE INVESTMEN	JE00B6173J15|ISIN|	2.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GENEL ENERGY PLC	JE00B55Q3P39|ISIN|	2137.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GALLIFORD TRY PLC	GB00B3Y2J508|ISIN|	-25.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	G4S PLC	GB00B01FLG62|ISIN|	-98587.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GRAFTON GROUP PLC-UTS	IE00B00MZ448|ISIN|	-113.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GKN PLC	GB0030646508|ISIN|	-11561.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GLENCORE PLC	JE00B4T3BW64|ISIN|	245717.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GREENCORE GROUP PLC	IE0003864109|ISIN|	-1107.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GREENE KING PLC	GB00B0HZP136|ISIN|	-12050.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GENUS PLC	GB0002074580|ISIN|	-2249.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GO-AHEAD GROUP PLC	GB0003753778|ISIN|	-23.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GREAT PORTLAND ESTATES PLC	GB00BZ0XJR39|ISIN|	83.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GREGGS PLC	GB00B63QSB39|ISIN|	-99.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GRAINGER PLC	GB00B04V1276|ISIN|	655.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GLAXOSMITHKLINE PLC	GB0009252882|ISIN|	-15541.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GENESIS EMERGING MARKETS	GG00B4L0PD47|ISIN|	-215.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GVC HOLDINGS PLC	IM00B5VQMV65|ISIN|	976.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HAYS PLC	GB0004161021|ISIN|	-881.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HALFORDS GROUP PLC	GB00B012TP20|ISIN|	2826.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HICL INFRASTRUCTURE CO LTD	GB00B0T4LH64|ISIN|	6538.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HIKMA PHARMACEUTICALS PLC	GB00B0LCW083|ISIN|	-38489.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HILL & SMITH HOLDINGS PLC	GB0004270301|ISIN|	-66.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HALMA PLC	GB0004052071|ISIN|	50.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HARGREAVES LANSDOWN PLC	GB00B1VZ0M25|ISIN|	-2292.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HAMMERSON PLC	GB0004065016|ISIN|	17268.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HOCHSCHILD MINING PLC	GB00B1FW5029|ISIN|	113.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HSBC HOLDINGS PLC	GB0005405286|ISIN|	-104603.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HASTINGS GROUP HOLDINGS PLC	GB00BYRJH519|ISIN|	89.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HANSTEEN HOLDINGS PLC	GB00B0PPFY88|ISIN|	23543.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HOMESERVE PLC	GB00BYYTFB60|ISIN|	31407.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HISCOX LTD	BMG4593F1389|ISIN|	1580.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HUNTING PLC	GB0004478896|ISIN|	-204.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HARBOURVEST GLOBAL PRIVA	GG00BR30MJ80|ISIN|	162.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HOWDEN JOINERY GROUP PLC	GB0005576813|ISIN|	522.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INTL CONSOLIDATED AIRLINE-DI	ES0177542018|ISIN|	-4458.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	IBSTOCK PLC	GB00BYXJC278|ISIN|	623.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INTERMEDIATE CAPITAL GROUP	GB00BYT1DJ19|ISIN|	279.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	IG GROUP HOLDINGS PLC	GB00B06QFB75|ISIN|	2535.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INTERCONTINENTAL HOTELS GROU	GB00BD8QVH41|ISIN|	-915.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	3I GROUP PLC	GB00B1YW4409|ISIN|	7478.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	IMPERIAL BRANDS PLC	GB0004544929|ISIN|	63645.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	IMI PLC	GB00BGLP8L22|ISIN|	-1193.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INCHCAPE PLC	GB00B61TVQ02|ISIN|	-18175.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INDIVIOR PLC	GB00BRS65X63|ISIN|	6648.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INFORMA PLC	GB00BMJ6DW54|ISIN|	-1253.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INTERNATIONAL PUBLIC PARTNER	GB00B188SR50|ISIN|	1516.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INTU PROPERTIES PLC	GB0006834344|ISIN|	-378590.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INVESTEC PLC	GB00B17BBQ50|ISIN|	261.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INTERNATIONAL PERSONAL FINAN	GB00B1YKG049|ISIN|	-2013.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	IP GROUP PLC	GB00B128J450|ISIN|	874.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INTERSERVE PLC	GB0001528156|ISIN|	2891.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INMARSAT PLC	GB00B09LSH68|ISIN|	-80399.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INTERTEK GROUP PLC	GB0031638363|ISIN|	-1248.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ITV PLC	GB0033986497|ISIN|	25394.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	IWG PLC	JE00BYVQYS01|ISIN|	-1269.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	JPMORGAN AMERICAN INVEST-ORD	GB00BKZGVH64|ISIN|	-292.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WETHERSPOON (J.D.) PLC	GB0001638955|ISIN|	1630.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	JD SPORTS FASHION PLC	GB00BYX91H57|ISIN|	-323.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	JUPITER EUROPEAN OPPORTUN TR	GB0000197722|ISIN|	330.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	JUST EAT PLC	GB00BKX5CN86|ISIN|	-11361.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	JPMORGAN INDIAN INV TRUST	GB0003450359|ISIN|	-114.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	JOHN LAING GROUP PLC	GB00BVC3CB83|ISIN|	7.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	JOHN LAING INFRASTRUCTURE	GG00B4ZWPH08|ISIN|	-984.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	JARDINE LLOYD THOMPSON GROUP	GB0005203376|ISIN|	-1351.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	JOHNSON MATTHEY PLC	GB00BZ4BQC70|ISIN|	-7115.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	JPMORGAN EMERGING MKTS-ORD	GB0003418950|ISIN|	1040.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	JUPITER FUND MANAGEMENT	GB00B53P2009|ISIN|	3585.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	JUST GROUP PLC	GB00BCRX1J15|ISIN|	17.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KAZ MINERALS PLC	GB00B0HZPV38|ISIN|	-184.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KINGFISHER PLC	GB0033195214|ISIN|	37753.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KIER GROUP PLC	GB0004915632|ISIN|	-66.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KELLER GROUP PLC	GB0004866223|ISIN|	434.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KENNEDY WILSON EUROPE REA	JE00BJT32513|ISIN|	-15.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LAND SECURITIES GROUP PLC	GB00BYW0PQ60|ISIN|	5293.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LADBROKES CORAL GROUP PLC	GB00B0ZSH635|ISIN|	-64920.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LEGAL & GENERAL GROUP PLC	GB0005603997|ISIN|	-62255.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LLOYDS BANKING GROUP PLC	GB0008706128|ISIN|	-293305.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LONMIN PLC	GB00BYSRJ698|ISIN|	-5723.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LONDONMETRIC PROPERTY PLC	GB00B4WFW713|ISIN|	121.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LANCASHIRE HOLDINGS LTD	BMG5361W1047|ISIN|	10935.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LONDON STOCK EXCHANGE GROUP	GB00B0SWJX34|ISIN|	-1424.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MITCHELLS & BUTLERS PLC	GB00B1FP6H53|ISIN|	-16754.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MARSTONS PLC	GB00B1JQDM80|ISIN|	-521.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MICRO FOCUS INTERNATIONAL	GB00BD8YWM01|ISIN|	6032.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MCCARTHY & STONE PLC	GB00BYNVD082|ISIN|	-1566.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MEDICLINIC INTERNATIONAL PLC	GB00B8HX8Z88|ISIN|	-3385.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MERLIN ENTERTAINMENT	GB00BDZT6P94|ISIN|	-47878.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MORGAN ADVANCED MATERIALS PL	GB0006027295|ISIN|	-1229.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MEGGITT PLC	GB0005758098|ISIN|	-109.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MARKS & SPENCER GROUP PLC	GB0031274896|ISIN|	-9733.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MILLENNIUM & COPTHORNE HOTEL	GB0005622542|ISIN|	85.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MONDI PLC	GB00B1CRLC47|ISIN|	2481.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MONKS INVESTMENT TRUST PLC	GB0030517261|ISIN|	-571.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MONEYSUPERMARKET.COM	GB00B1ZBKY84|ISIN|	134.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MERCANTILE INVESTMENT TRUST	GB0005794036|ISIN|	-118.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MELROSE INDUSTRIES PLC	GB00BZ1G4322|ISIN|	5126.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WM MORRISON SUPERMARKETS	GB0006043169|ISIN|	-3292.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MARSHALLS PLC	GB00B012BV22|ISIN|	440.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MITIE GROUP PLC	GB0004657408|ISIN|	1796.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	METRO BANK PLC	GB00BZ6STL67|ISIN|	-515.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MURRAY INTERNATIONAL TR-O	GB0006111909|ISIN|	-443.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NB GLOBAL FLOATING RATE INC	GG00B3KX4Q34|ISIN|	-944.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NATIONAL EXPRESS GROUP PLC	GB0006215205|ISIN|	29.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NATIONAL GRID PLC	GB00BDR05C01|ISIN|	3064.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NMC HEALTH PLC	GB00B7FC0762|ISIN|	15500.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NOSTRUM OIL & GAS PLC	GB00BGP6Q951|ISIN|	-382.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NEWRIVER REIT PLC	GB00BD7XPJ64|ISIN|	417.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NORTHGATE PLC	GB00B41H7391|ISIN|	568.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NEX GROUP PLC	GB00BZ02MH16|ISIN|	2611.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NEXT PLC	GB0032089863|ISIN|	1239.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	OCADO GROUP PLC	GB00B3MBS747|ISIN|	-15192.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	OLD MUTUAL PLC	GB00B77J0862|ISIN|	-114610.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	OPHIR ENERGY PLC	GB00B24CT194|ISIN|	-4182.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ONESAVINGS BANK PLC	GB00BM7S7K96|ISIN|	188.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	OXFORD INSTRUMENTS PLC	GB0006650450|ISIN|	-430.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	P2P GLOBAL INVESTMENTS PLC	GB00BLP57Y95|ISIN|	-97.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PAGEGROUP PLC	GB0030232317|ISIN|	-651.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PARAGON BANKING GROUP PLC	GB00B2NGPM57|ISIN|	-434.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PAYSAFE GROUP PLC	GB0034264548|ISIN|	-1057.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PAYPOINT PLC	GB00B02QND93|ISIN|	-311.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	POLAR CAPITAL TECHNOLOGY TR	GB0004220025|ISIN|	672.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PETRA DIAMONDS LTD	BMG702781094|ISIN|	211.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PETS AT HOME GROUP PLC	GB00BJ62K685|ISIN|	-47576.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PETROFAC LTD	GB00B0H2K534|ISIN|	3202.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PROVIDENT FINANCIAL PLC	GB00B1Z4ST84|ISIN|	-174.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PHOENIX GROUP HOLDINGS	KYG7091M1096|ISIN|	-513.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PERPETUAL INCOME & GROWTH-O	GB0006798424|ISIN|	-395.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	POLYPIPE GROUP PLC	GB00BKRC5K31|ISIN|	-340.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PERSONAL ASSETS TRUST PLC	GB0006827546|ISIN|	22.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PENNON GROUP PLC	GB00B18V8630|ISIN|	-2382.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	POLYMETAL INTERNATIONAL PLC	JE00B6T5S470|ISIN|	-511.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PADDY POWER BETFAIR PLC	IE00BWT6H894|ISIN|	-394.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PRUDENTIAL PLC	GB0007099541|ISIN|	3361.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PERSHING SQUARE HOLDINGS LTD	GG00BPFJTF46|ISIN|	1926.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PERSIMMON PLC	GB0006825383|ISIN|	-10342.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PEARSON PLC	GB0006776081|ISIN|	-9273.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PLAYTECH PLC	IM00B7S9G985|ISIN|	-21.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PZ CUSSONS PLC	GB00B19Z1432|ISIN|	61.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	QINETIQ GROUP PLC	GB00B0WMWD03|ISIN|	340.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RATHBONE BROTHERS PLC	GB0002148343|ISIN|	-21.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ROYAL BANK OF SCOTLAND GROUP	GB00B7T77214|ISIN|	12664.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RECKITT BENCKISER GROUP PLC	GB00B24CGK77|ISIN|	-2106.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RIT CAPITAL PARTNERS PLC	GB0007366395|ISIN|	-454.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	REDEFINE INTERNATIONAL PLC	IM00B8BV8G91|ISIN|	8464.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ROYAL DUTCH SHELL PLC-A SHS	GB00B03MLX29|ISIN|	34476.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ROYAL DUTCH SHELL PLC-B SHS	GB00B03MM408|ISIN|	35997.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	REDROW PLC	GB0007282386|ISIN|	-259.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RELX PLC	GB00B2B0DG97|ISIN|	-3962.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RIO TINTO PLC	GB0007188757|ISIN|	5789.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ROYAL MAIL PLC	GB00BDVZYZ77|ISIN|	2653.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RIGHTMOVE PLC	GB00B2987V85|ISIN|	103.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RANK GROUP PLC	GB00B1L5QH97|ISIN|	1869.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ROTORK PLC	GB00BVFNZH21|ISIN|	5778.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RPC GROUP PLC	GB0007197378|ISIN|	-670.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RPS GROUP PLC	GB0007594764|ISIN|	752.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RANDGOLD RESOURCES LTD	GB00B01C3S32|ISIN|	2501.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ROLLS-ROYCE HOLDINGS PLC	GB00B63H8491|ISIN|	-14068.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RSA INSURANCE GROUP PLC	GB00BKKMKR23|ISIN|	-3264.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RIVERSTONE ENERGY LTD	GG00BBHXCL35|ISIN|	-226.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RENISHAW PLC	GB0007323586|ISIN|	48.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RESTAURANT GROUP PLC	GB00B0YG1K06|ISIN|	-87.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RENTOKIL INITIAL PLC	GB00B082RF11|ISIN|	-3291.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RENEWI PLC	GB0007995243|ISIN|	1625.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SAFESTORE HOLDINGS PLC	GB00B1N7Z094|ISIN|	132.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SAGA PLC	GB00BLT1Y088|ISIN|	186.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SAINSBURY (J) PLC	GB00B019KW72|ISIN|	27396.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SCOTTISH INVESTMENT TRUST	GB0007826091|ISIN|	96.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SOFTCAT PLC	GB00BYZDVK82|ISIN|	-94.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SCHRODERS PLC	GB0002405495|ISIN|	327.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	STAGECOACH GROUP PLC	GB00B6YTLS95|ISIN|	196.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SAGE GROUP PLC/THE	GB00B8C3BL03|ISIN|	-3635.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SUPERGROUP PLC	GB00B60BD277|ISIN|	-17.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SEGRO PLC	GB00B5ZN1N88|ISIN|	5518.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SHAFTESBURY PLC	GB0007990962|ISIN|	3978.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SIG PLC	GB0008025412|ISIN|	461.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SHIRE PLC	JE00B2QKY057|ISIN|	-1579.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SOCO INTERNATIONAL PLC	GB00B572ZV91|ISIN|	54.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SMURFIT KAPPA GROUP PLC	IE00B1RR8406|ISIN|	3214.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SKY PLC	GB0001411924|ISIN|	-8570.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	STANDARD LIFE ABERDEEN PLC	GB00BVFD7Q58|ISIN|	1505.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DS SMITH PLC	GB0008220112|ISIN|	-8045.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SMITHS GROUP PLC	GB00B1WY2338|ISIN|	2718.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ST. MODWEN PROPERTIES PLC	GB0007291015|ISIN|	-32.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SCOTTISH MORTGAGE INV TR PLC	GB00BLDYK618|ISIN|	-3938.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WH SMITH PLC	GB00B2PDGW16|ISIN|	-5.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SANNE GROUP PLC	JE00BVRZ8S85|ISIN|	-163.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SENIOR PLC	GB0007958233|ISIN|	-376.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SMITH & NEPHEW PLC	GB0009223206|ISIN|	4839.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SOPHOS GROUP PLC	GB00BYZFZ918|ISIN|	-117.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SPORTS DIRECT INTERNATIONAL	GB00B1QH8P22|ISIN|	-15307.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SPIRE HEALTHCARE GROUP PLC	GB00BNLPYF73|ISIN|	-133.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SPIRENT COMMUNICATIONS PLC	GB0004726096|ISIN|	3336.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SPIRAX-SARCO ENGINEERING PLC	GB00BWFGQN14|ISIN|	-223.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SERCO GROUP PLC	GB0007973794|ISIN|	1274.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SSE PLC	GB0007908733|ISIN|	758.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SSP GROUP PLC	GB00BNGWY422|ISIN|	-6279.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	STANDARD CHARTERED PLC	GB0004082847|ISIN|	-75752.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ST JAMESS PLACE PLC	GB0007669376|ISIN|	3169.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	STOBART GROUP LTD	GB00B03HDJ73|ISIN|	862.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SAVILLS PLC	GB00B135BJ46|ISIN|	-106.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SEVERN TRENT PLC	GB00B1FH8J72|ISIN|	30.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SPECTRIS PLC	GB0003308607|ISIN|	216.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SIRIUS MINERALS PLC	GB00B0DG3H29|ISIN|	31908.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SYNCONA LTD	GG00B8P59C08|ISIN|	2685.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SYNTHOMER PLC	GB0009887422|ISIN|	6930.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TALKTALK TELECOM GROUP	GB00B4YCDF59|ISIN|	4770.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TATE & LYLE PLC	GB0008754136|ISIN|	-94541.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TBC BANK GROUP PLC	GB00BYT18307|ISIN|	-55.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TP ICAP PLC	GB00B1H0DZ51|ISIN|	1417.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	THOMAS COOK GROUP PLC	GB00B1VYCH82|ISIN|	-1956.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TED BAKER PLC	GB0001048619|ISIN|	-61.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TEMPLETON EMERGING MARKETS-O	GB0008829292|ISIN|	1157.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TELECOM PLUS PLC	GB0008794710|ISIN|	792.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TULLOW OIL PLC	GB0001500809|ISIN|	90921.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TEMPLE BAR INVESTMENT TRUST	GB0008825324|ISIN|	-69.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TRAVIS PERKINS PLC	GB0007739609|ISIN|	-3225.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RENEWABLES INFRASTRUCTURE GR	GG00BBHX2H91|ISIN|	-924.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TR PROPERTY INVESTMENT TRUST	GB0009064097|ISIN|	-575.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TESCO PLC	GB0008847096|ISIN|	1026.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TUI AG-DI	DE000TUAG000|ISIN|	-8242.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TAYLOR WIMPEY PLC	GB0008782301|ISIN|	-113048.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	UBM PLC	JE00BD9WR069|ISIN|	-1055.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	UNITED DRUG PLC	IE0033024807|ISIN|	-189.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	UK COMMERCIAL PROPERTY TRUST	GB00B19Z2J52|ISIN|	-1001.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GREENCOAT UK WIND PLC	GB00B8SC6K54|ISIN|	-1100.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ULTRA ELECTRONICS HLDGS PLC	GB0009123323|ISIN|	-70.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	UNILEVER PLC	GB00B10RZP78|ISIN|	1471.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	UNITE GROUP PLC	GB0006928617|ISIN|	-223.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	UNITED UTILITIES GROUP PLC	GB00B39J2M42|ISIN|	2529.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VICTREX PLC	GB0009292243|ISIN|	-102.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VECTURA GROUP PLC	GB00B01D1K48|ISIN|	21.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VEDANTA RESOURCES PLC	GB0033277061|ISIN|	2434.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VIETNAM ENTERPRISE INV LTD-C	KYG9361H1092|ISIN|	-91.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VIRGIN MONEY HOLDINGS UK	GB00BQ8P0644|ISIN|	555.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VODAFONE GROUP PLC	GB00BH4HKS39|ISIN|	607042.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VESUVIUS PLC	GB00B82YXW83|ISIN|	364.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WEIR GROUP PLC/THE	GB0009465807|ISIN|	-778.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WOOD GROUP (JOHN) PLC	GB00B5N0P849|ISIN|	805.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WIZZ AIR HOLDINGS PLC	JE00BN574F90|ISIN|	58.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WORKSPACE GROUP PLC	GB00B67G5X01|ISIN|	247.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WILLIAM HILL PLC	GB0031698896|ISIN|	62251.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WOODFORD PATIENT CAPITAL TRU	GB00BVG1CF25|ISIN|	2831.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WORLDPAY GROUP PLC	GB00BYYK2V80|ISIN|	14982.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WPP PLC	JE00B8KF9B49|ISIN|	-20236.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WITAN INVESTMENT TRUST PLC	GB0009744060|ISIN|	141.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WHITBREAD PLC	GB00B1KJJ408|ISIN|	768.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WORLDWIDE HEALTHCARE TRUST P	GB0003385308|ISIN|	195.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ZPG PLC	GB00BMHTHT14|ISIN|	120.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SISTEMA PJSC FC	RU000A0DQZE3|ISIN|	-23600.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AEROFLOT-RUSSIAN AIRLINES	RU0009062285|ISIN|	-2400.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ROS AGRO PLC- GDR REG S	US7496552057|ISIN|	301.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ACRON	RU0009028674|ISIN|	1.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ALROSA PJSC	RU0007252813|ISIN|	-9700.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CREDIT BANK OF MOSCOW PJSC	RU000A0JUG31|ISIN|	-200.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SEVERSTAL	RU0009046510|ISIN|	-500.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DIXY GROUP PJSC	RU000A0JP7H1|ISIN|	640.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DETSKY MIR PJSC	RU000A0JSQ90|ISIN|	2010.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SAFMAR FINANCIAL INVESTMENT	RU000A0JVW89|ISIN|	270.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FEDERAL GRID CO UNIFIED ENER	RU000A0JPNN9|ISIN|	-970000.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GAZPROM OAO	RU0007661625|ISIN|	-49280.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MMC NORILSK NICKEL OJSC	RU0007288411|ISIN|	-240.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RUSHYDRO JSC	RU000A0JPKH7|ISIN|	-314000.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INTER RAO UES	RU000A0JPNM1|ISIN|	-135000.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LUKOIL PJSC	RU0009024277|ISIN|	-1722.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LSR GROUP	RU000A0JPFP0|ISIN|	249.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MAGNITOGORSK IRON&STEEL	RU0009084396|ISIN|	-7300.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MEGAFON PJSC	RU000A0JS942|ISIN|	-590.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MAGNIT	RU000A0JKQU8|ISIN|	-246.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MOSCOW EXCHANGE MICEX-RTS	RU000A0JR4A1|ISIN|	-4870.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MOSENERGO	RU0008958863|ISIN|	69000.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MECHEL	RU000A0DKXV5|ISIN|	-1218.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MOBILE TELESYSTEMS OJSC	RU0007775219|ISIN|	-3790.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	M VIDEO	RU000A0JPGA0|ISIN|	470.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NOVOLIPETSK STEEL (NLMK OAO)	RU0009046452|ISIN|	-4260.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NOVATEK PJSC	RU000A0DKVS5|ISIN|	-3630.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PHOSAGRO OAO - CLS	RU000A0JRKT8|ISIN|	-117.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PIK GROUP	RU000A0JP7J7|ISIN|	-40.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	POLYUS PJSC	RU000A0JNAA8|ISIN|	-59.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	POLYMETAL INTERNATIONAL PLC	JE00B6T5S470|ISIN|	-854.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RUSSNEFT PJSC	RU000A0JSE60|ISIN|	731.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ROSNEFT OAO	RU000A0J2Q06|ISIN|	-5010.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ROSSETI PJSC	RU000A0JPVJ0|ISIN|	1000.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ROSTELECOM	RU0008943394|ISIN|	-2500.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	UNITED CO RUSAL PLC	JE00B5BCW814|ISIN|	-9190.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SBERBANK OF RUSSIA PJSC	RU0009029540|ISIN|	-33280.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SBERBANK-PREFERENCE	RU0009029557|ISIN|	-2400.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SURGUTNEFTEGAS OJSC	RU0008926258|ISIN|	-37500.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SURGUTNEFTEGAS-PFD	RU0009029524|ISIN|	-22100.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TATNEFT-CLS	RU0009033591|ISIN|	-2830.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TATNEFT-PREF 3 SERIES	RU0006944147|ISIN|	-770.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TMK PJSC	RU000A0B6NK6|ISIN|	170.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TRANSNEFT PJSC	RU0009091573|ISIN|	5.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	UNIPRO PJSC	RU000A0JNGA5|ISIN|	-80000.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	UNITED WAGON CO PJSC	RU000A0JVBT9|ISIN|	252.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VTB BANK PJSC	RU000A0JP5V6|ISIN|	-31910000.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	YANDEX NV-A	NL0009805522|ISIN|	-163.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	A2A SPA	IT0001233417|ISIN|	44687.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ATLANTIA SPA	IT0003506190|ISIN|	-29803.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AZIMUT HOLDING SPA	IT0003261697|ISIN|	-317.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BANCO BPM SPA	IT0005218380|ISIN|	34595.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BANCA GENERALI SPA	IT0001031084|ISIN|	-92.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BANCA MEDIOLANUM SPA	IT0004776628|ISIN|	-7803.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BPER BANCA	IT0000066123|ISIN|	2407.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BREMBO SPA	IT0005252728|ISIN|	3248.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BUZZI UNICEM SPA	IT0001347308|ISIN|	-5578.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CNH INDUSTRIAL NV	NL0010545661|ISIN|	20993.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DAVIDE CAMPARI-MILANO SPA	IT0005252207|ISIN|	4001.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ENEL SPA	IT0003128367|ISIN|	172468.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ENI SPA	IT0003132476|ISIN|	-106594.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EXOR NV	NL0012059018|ISIN|	-2071.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FINECOBANK SPA	IT0000072170|ISIN|	-2068.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FIAT CHRYSLER AUTOMOBILES NV	NL0010877643|ISIN|	71787.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ASSICURAZIONI GENERALI	IT0000062072|ISIN|	-33838.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ITALGAS SPA	IT0005211237|ISIN|	-10307.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INTESA SANPAOLO	IT0000072618|ISIN|	13088.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LEONARDO SPA	IT0003856405|ISIN|	25884.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LUXOTTICA GROUP SPA	IT0001479374|ISIN|	506.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MEDIOBANCA SPA	IT0000062957|ISIN|	-7613.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MONCLER SPA	IT0004965148|ISIN|	-789.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MEDIASET SPA	IT0001063210|ISIN|	-12101.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PRYSMIAN SPA	IT0004176001|ISIN|	220.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	POSTE ITALIANE SPA	IT0003796171|ISIN|	406.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FERRARI NV	NL0011585146|ISIN|	5421.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RECORDATI SPA	IT0003828271|ISIN|	-605.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SALVATORE FERRAGAMO SPA	IT0004712375|ISIN|	-568.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SAIPEM SPA	IT0005252140|ISIN|	-54429.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SNAM SPA	IT0003153415|ISIN|	-323446.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	STMICROELECTRONICS NV	NL0000226223|ISIN|	-13397.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TENARIS SA	LU0156801721|ISIN|	-2889.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TELECOM ITALIA SPA	IT0003497168|ISIN|	-191430.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TERNA SPA	IT0003242622|ISIN|	-43402.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	UBI BANCA SPA	IT0003487029|ISIN|	-704.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	UNICREDIT SPA	IT0005239360|ISIN|	49031.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	UNIPOL GRUPPO SPA	IT0004810054|ISIN|	-6052.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	UNIPOLSAI ASSICURAZIONI SPA	IT0004827447|ISIN|	-140423.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	YOOX NET-A-PORTER GROUP	IT0003540470|ISIN|	-62.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AAK AB	SE0001493776|ISIN|	-4349.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ABB LTD-REG	CH0012221716|ISIN|	-5130.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ADDTECH AB-B SHARES	SE0005568136|ISIN|	-2747.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AF AB-B SHS	SE0005999836|ISIN|	-24.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AHLSELL AB	SE0009155005|ISIN|	16382.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ALFA LAVAL AB	SE0000695876|ISIN|	529.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ALIMAK GROUP AB	SE0007158910|ISIN|	961.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AUTOLIV INC-SWED DEP RECEIPT	SE0000382335|ISIN|	-1267.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AFRICA OIL CORP	CA00829Q1019|ISIN|	10764.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ASSA ABLOY AB-B	SE0007100581|ISIN|	14051.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ATLAS COPCO AB-A SHS	SE0006886750|ISIN|	-5869.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ATLAS COPCO AB-B SHS	SE0006886768|ISIN|	-4141.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ATRIUM LJUNGBERG AB-B SHS	SE0000191827|ISIN|	261.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ATTENDO AB	SE0007666110|ISIN|	241.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AXFOOD AB	SE0006993770|ISIN|	146.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ASTRAZENECA PLC	GB0009895292|ISIN|	-237.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FASTIGHETS AB BALDER-B SHRS	SE0000455057|ISIN|	146.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BERGMAN & BEVING AKTIEBOLAG	SE0000101362|ISIN|	436.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BILIA AB-A SHS	SE0009921588|ISIN|	14758.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BIOGAIA AB-B SHS	SE0000470395|ISIN|	31.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BOLIDEN AB	SE0000869646|ISIN|	-2514.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BRAVIDA HOLDING AB	SE0007491303|ISIN|	-208.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BUFAB AB	SE0005677135|ISIN|	-429.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CAMURUS AB	SE0007692850|ISIN|	1155.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CAPIO AB	SE0007185681|ISIN|	-8685.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CASTELLUM AB	SE0000379190|ISIN|	-303.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CATENA AB	SE0001664707|ISIN|	327.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CLOETTA AB-B SHS	SE0002626861|ISIN|	53029.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CLAS OHLSON AB-B SHS	SE0000584948|ISIN|	-30.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CONCENTRIC AB	SE0003950864|ISIN|	448.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	COLLECTOR AB	SE0007048020|ISIN|	1140.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	COM HEM HOLDING AB	SE0005999778|ISIN|	98.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	COOR SERVICE MANAGEMENT	SE0007158829|ISIN|	168.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	D CARNEGIE & CO AB	SE0005594728|ISIN|	304.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DIOS FASTIGHETER AB	SE0001634262|ISIN|	557.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DOMETIC GROUP AB	SE0007691613|ISIN|	340.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DUNI AB	SE0000616716|ISIN|	17.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DUSTIN GROUP AB	SE0006625471|ISIN|	143.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ELEKTA AB-B SHS	SE0000163628|ISIN|	173.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ELTEL AB	SE0006509949|ISIN|	9448.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ELECTROLUX AB-SER B	SE0000103814|ISIN|	-1797.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ERICSSON LM-B SHS	SE0000108656|ISIN|	-6214.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ESSITY AKTIEBOLAG-A	SE0009922156|ISIN|	4.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ESSITY AKTIEBOLAG-B	SE0009922164|ISIN|	13358.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EVOLUTION GAMING GROUP	SE0006826046|ISIN|	72.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FABEGE AB	SE0000950636|ISIN|	61.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FAGERHULT AB	SE0010048884|ISIN|	-118.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FINGERPRINT CARDS AB-B	SE0008374250|ISIN|	18668.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FENIX OUTDOOR INTERNATIONAL	CH0242214887|ISIN|	28.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GETINGE AB-B SHS	SE0000202624|ISIN|	-4990.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GRANGES AB	SE0006288015|ISIN|	399.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HEMFOSA FASTIGHETER AB	SE0007126115|ISIN|	1964.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HEXAGON AB-B SHS	SE0000103699|ISIN|	33.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HIQ INTERNATIONAL AB	SE0009696883|ISIN|	-452.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HENNES & MAURITZ AB-B SHS	SE0000106270|ISIN|	42843.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HOIST FINANCE AB	SE0006887063|ISIN|	14.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HEXPOL AB	SE0007074281|ISIN|	327.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HUFVUDSTADEN AB-A SHS	SE0000170375|ISIN|	669.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HUSQVARNA AB-B SHS	SE0001662230|ISIN|	323.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ICA GRUPPEN AB	SE0000652216|ISIN|	6153.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INDUTRADE AB	SE0001515552|ISIN|	-140.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INDUSTRIVARDEN AB-A SHS	SE0000190126|ISIN|	4867.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INDUSTRIVARDEN AB-C SHS	SE0000107203|ISIN|	-222.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INTRUM JUSTITIA AB	SE0000936478|ISIN|	-248.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INVESTOR AB-B SHS	SE0000107419|ISIN|	-1061.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INWIDO AB	SE0006220018|ISIN|	8510.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	JM AB	SE0000806994|ISIN|	-1382.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KINNEVIK AB - B	SE0008373906|ISIN|	-775.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LAGERCRANTZ GROUP AB-B SHS	SE0007603493|ISIN|	338.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LINDAB INTERNATIONAL AB	SE0001852419|ISIN|	1798.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LIFCO AB-B SHS	SE0006370730|ISIN|	169.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LUNDIN PETROLEUM AB	SE0000825820|ISIN|	-2994.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MEDICOVER AB	SE0009778848|ISIN|	2257.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MELKER SCHORLING AB	SE0001785270|ISIN|	43.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MOMENTUM GROUP AB-CLASS B	SE0009922305|ISIN|	175.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MODERN TIMES GROUP-B SHS	SE0000412371|ISIN|	-60.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MUNTERS GROUP AB	SE0009806607|ISIN|	1836.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MEDIVIR AB-B SHS	SE0000273294|ISIN|	102.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MYCRONIC AB	SE0000375115|ISIN|	6660.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NCC AB-B SHS	SE0000117970|ISIN|	-15708.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NORDEA BANK AB	SE0000427361|ISIN|	-58668.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NORDAX GROUP AB	SE0006965216|ISIN|	-123.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NETENT AB	SE0009773237|ISIN|	532.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NIBE INDUSTRIER AB-B SHS	SE0008321293|ISIN|	-210.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NOBINA AB	SE0007185418|ISIN|	10939.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NOLATO AB-B SHS	SE0000109811|ISIN|	72.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ORIFLAME HOLDING AG	CH0256424794|ISIN|	356.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PEAB AB	SE0000106205|ISIN|	2282.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PANDOX AB	SE0007100359|ISIN|	515.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PROBI AB	SE0001280355|ISIN|	270.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RAYSEARCH LABORATORIES AB	SE0000135485|ISIN|	66.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RECIPHARM AB-B SHS	SE0005757267|ISIN|	8214.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	REZIDOR HOTEL GROUP AB	SE0001857533|ISIN|	49.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SAAB AB-B	SE0000112385|ISIN|	-31.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SAGAX AB-B	SE0005127818|ISIN|	-92.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SANDVIK AB	SE0000667891|ISIN|	719.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SAS AB	SE0003366871|ISIN|	3848.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SVENSKA CELLULOSA AB SCA-B	SE0000112724|ISIN|	-3767.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SKANDINAVISKA ENSKILDA BAN-A	SE0000148884|ISIN|	2621.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SECURITAS AB-B SHS	SE0000163594|ISIN|	3009.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SVENSKA HANDELSBANKEN-A SHS	SE0007100599|ISIN|	-46227.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SCANDIC HOTELS GROUP AB	SE0007640156|ISIN|	218.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SKANSKA AB-B SHS	SE0000113250|ISIN|	2787.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SKF AB-B SHARES	SE0000108227|ISIN|	-5642.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SKISTAR AB	SE0000241614|ISIN|	-205.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SWEDISH ORPHAN BIOVITRUM AB	SE0000872095|ISIN|	-39.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SSAB AB-A SHARES	SE0000171100|ISIN|	-11846.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SSAB AB - B SHARES	SE0000120669|ISIN|	808.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	STORA ENSO OYJ-R SHS	FI0009007611|ISIN|	358.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SWECO AB-B SHS	SE0000489098|ISIN|	2243.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SWEDBANK AB - A SHARES	SE0000242455|ISIN|	-1637.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SWEDISH MATCH AB	SE0000310336|ISIN|	-4281.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SYSTEMAIR AB	SE0002133975|ISIN|	44.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TELE2 AB-B SHS	SE0005190238|ISIN|	-38973.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TELIA CO AB	SE0000667925|ISIN|	-19148.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TETHYS OIL AB	SE0009161185|ISIN|	-308.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	THULE GROUP AB/THE	SE0006422390|ISIN|	157.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TOBII AB	SE0002591420|ISIN|	1024.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TRELLEBORG AB-B SHS	SE0000114837|ISIN|	145.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TROAX GROUP AB	SE0006732392|ISIN|	417.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VITROLIFE AB	SE0000816043|ISIN|	-42.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VOLVO AB-A SHS	SE0000115420|ISIN|	41.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VOLVO AB-B SHS	SE0000115446|ISIN|	13869.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WALLENSTAM AB-B SHS	SE0007074844|ISIN|	8887.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WIHLBORGS FASTIGHETER AB	SE0001413600|ISIN|	160.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AKASTOR ASA	NO0010215684|ISIN|	2180.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AKER BP ASA	NO0010345853|ISIN|	3216.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AKER ASA-A SHARES	NO0010234552|ISIN|	45.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AKER SOLUTIONS ASA	NO0010716582|ISIN|	6.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ARCUS ASA	NO0010776875|ISIN|	637.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ATEA ASA	NO0004822503|ISIN|	1070.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AUSTEVOLL SEAFOOD ASA	NO0010073489|ISIN|	1462.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AVANCE GAS HOLDING LTD	BMG067231032|ISIN|	-427.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BAKKAFROST P/F	FO0000000179|ISIN|	1752.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BORREGAARD ASA	NO0010657505|ISIN|	566.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BW LPG LTD	BMG173841013|ISIN|	8033.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BW OFFSHORE LTD	BMG1738J1247|ISIN|	1201.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DNB ASA	NO0010031479|ISIN|	8362.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DNO ASA	NO0003921009|ISIN|	5011.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EKORNES ASA	NO0003035305|ISIN|	359.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ENTRA ASA	NO0010716418|ISIN|	226.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EUROPRIS ASA	NO0010735343|ISIN|	-643.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EVRY AS	NO0010019649|ISIN|	-417.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GJENSIDIGE FORSIKRING ASA	NO0010582521|ISIN|	-1730.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GRIEG SEAFOOD ASA	NO0010365521|ISIN|	-30235.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HEXAGON COMPOSITES ASA	NO0003067902|ISIN|	4959.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HOEGH LNG HOLDINGS LTD	BMG454221059|ISIN|	176.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KONGSBERG AUTOMOTIVE ASA	NO0003033102|ISIN|	2357.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KONGSBERG GRUPPEN ASA	NO0003043309|ISIN|	191.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LEROY SEAFOOD GROUP ASA	NO0003096208|ISIN|	19778.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MARINE HARVEST	NO0003054108|ISIN|	302.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SPAREBANK 1 SMN	NO0006390301|ISIN|	51.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NORDIC NANOVECTOR ASA	NO0010597883|ISIN|	1499.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NORWEGIAN AIR SHUTTLE AS	NO0010196140|ISIN|	1951.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NORSK HYDRO ASA	NO0005052605|ISIN|	-15832.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NORDIC SEMICONDUCTOR ASA	NO0003055501|ISIN|	1008.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NORWEGIAN FINANCE HOLDING AS	NO0010387004|ISIN|	8533.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SPAREBANK 1 NORD-NORGE	NO0006000801|ISIN|	4.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NORWEGIAN PROPERTY ASA	NO0010317811|ISIN|	4199.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NORWAY ROYAL SALMON ASA	NO0010331838|ISIN|	129.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	OCEAN YIELD ASA	NO0010657448|ISIN|	45.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	OLAV THON EIENDOMSSELSKAP AS	NO0005638858|ISIN|	70.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ORKLA ASA	NO0003733800|ISIN|	39340.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PETROLEUM GEO-SERVICES	NO0010199151|ISIN|	29644.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PROTECTOR FORSIKRING ASA	NO0010209331|ISIN|	247.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	REC SILICON ASA	NO0010112675|ISIN|	113841.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SALMAR ASA	NO0010310956|ISIN|	-6803.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SKANDIABANKEN ASA	NO0010739402|ISIN|	218.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SELVAAG BOLIG ASA	NO0010612450|ISIN|	605.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SCHIBSTED ASA-CL A	NO0003028904|ISIN|	-24857.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SCHIBSTED ASA-B SHS	NO0010736879|ISIN|	-3070.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	STOLT-NIELSEN LTD	BMG850801025|ISIN|	-199.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SCATEC SOLAR ASA	NO0010715139|ISIN|	-180.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	STOREBRAND ASA	NO0003053605|ISIN|	3317.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	STATOIL ASA	NO0010096985|ISIN|	-41964.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SUBSEA 7 SA	LU0075646355|ISIN|	3312.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TELENOR ASA	NO0010063308|ISIN|	12341.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TGS NOPEC GEOPHYSICAL CO ASA	NO0003078800|ISIN|	-55.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TOMRA SYSTEMS ASA	NO0005668905|ISIN|	-316.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VEIDEKKE ASA	NO0005806802|ISIN|	-77.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WILH WILHELMSEN HOLDING-A	NO0010571698|ISIN|	137.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WALLENIUS WILHELMSEN LOGISTI	NO0010571680|ISIN|	523.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	XXL ASA	NO0010716863|ISIN|	376.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	YARA INTERNATIONAL ASA	NO0010208051|ISIN|	4830.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ABERTIS INFRAESTRUCTURAS SA	ES0111845014|ISIN|	-23965.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ACS ACTIVIDADES CONS Y SERV	ES0167050915|ISIN|	7263.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ACERINOX SA	ES0132105018|ISIN|	-12646.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AENA SME SA	ES0105046009|ISIN|	-480.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AMADEUS IT GROUP SA	ES0109067019|ISIN|	-9710.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ACCIONA SA	ES0125220311|ISIN|	717.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BANCO BILBAO VIZCAYA ARGENTA	ES0113211835|ISIN|	28975.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BANKIA SA	ES0113307062|ISIN|	-7034.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BANKINTER SA	ES0113679I37|ISIN|	1011.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BOLSAS Y MERCADOS ESPANOLES	ES0115056139|ISIN|	-230.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CAIXABANK S.A	ES0140609019|ISIN|	117892.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PROSEGUR CASH SA	ES0105229001|ISIN|	-5.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CELLNEX TELECOM SAU	ES0105066007|ISIN|	1617.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INMOBILIARIA COLONIAL SOCIMI	ES0139140174|ISIN|	8979.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DISTRIBUIDORA INTERNACIONAL	ES0126775032|ISIN|	-248533.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ENDESA SA	ES0130670112|ISIN|	2399.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ENAGAS SA	ES0130960018|ISIN|	-3792.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FERROVIAL SA	ES0118900010|ISIN|	4015.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GAS NATURAL SDG SA	ES0116870314|ISIN|	-964.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GRIFOLS SA	ES0171996087|ISIN|	6691.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NEINOR HOMES SA	ES0105251005|ISIN|	-5.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INTL CONSOLIDATED AIRLINE-DI	ES0177542018|ISIN|	-3039.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	IBERDROLA SA	ES0144580Y14|ISIN|	36581.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INDRA SISTEMAS SA	ES0118594417|ISIN|	-50.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INDUSTRIA DE DISENO TEXTIL	ES0148396007|ISIN|	-115.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MAPFRE SA	ES0124244E34|ISIN|	-5698.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MELIA HOTELS INTERNATIONAL	ES0176252718|ISIN|	1514.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MERLIN PROPERTIES SOCIMI SA	ES0105025003|ISIN|	40061.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ARCELORMITTAL	LU1598757687|ISIN|	-1690.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	OBRASCON HUARTE LAIN S.A.	ES0142090317|ISIN|	460.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RED ELECTRICA CORPORACION SA	ES0173093024|ISIN|	5802.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	REPSOL SA	ES0173516115|ISIN|	-31639.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BANCO DE SABADELL SA	ES0113860A34|ISIN|	1472.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BANCO SANTANDER SA	ES0113900J37|ISIN|	-65071.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SACYR SA	ES0182870214|ISIN|	2303.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SIEMENS GAMESA RENEWABLE ENE	ES0143416115|ISIN|	-14816.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TELEFONICA SA	ES0178430E18|ISIN|	-20526.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MEDIASET ESPANA COMUNICACION	ES0152503035|ISIN|	-20759.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TECNICAS REUNIDAS SA	ES0178165017|ISIN|	4611.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VISCOFAN SA	ES0184262212|ISIN|	-2260.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ABB LTD-REG	CH0012221716|ISIN|	-17053.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ADECCO GROUP AG-REG	CH0012138605|ISIN|	1301.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AMS AG	AT0000A18XM4|ISIN|	-4626.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ARYZTA AG	CH0043238366|ISIN|	1899.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	JULIUS BAER GROUP LTD	CH0102484968|ISIN|	-6555.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BALOISE HOLDING AG - REG	CH0012410517|ISIN|	339.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BARRY CALLEBAUT AG-REG	CH0009002962|ISIN|	8.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BOSSARD HOLDING AG-REG A	CH0238627142|ISIN|	-5.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CIE FINANCIERE RICHEMONT-REG	CH0210483332|ISIN|	8585.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CLARIANT AG-REG	CH0012142631|ISIN|	10626.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CEMBRA MONEY BANK AG	CH0225173167|ISIN|	383.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CREDIT SUISSE GROUP AG-REG	CH0012138530|ISIN|	-57074.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DKSH HOLDING AG	CH0126673539|ISIN|	192.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DORMAKABA HOLDING AG	CH0011795959|ISIN|	96.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DUFRY AG-REG	CH0023405456|ISIN|	-982.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EMS-CHEMIE HOLDING AG-REG	CH0016440353|ISIN|	-2.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FLUGHAFEN ZURICH AG-REG	CH0319416936|ISIN|	601.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FISCHER (GEORG)-REG	CH0001752309|ISIN|	-152.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GALENICA AG	CH0360674466|ISIN|	-1363.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GAM HOLDING AG	CH0102659627|ISIN|	1733.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GEBERIT AG-REG	CH0030170408|ISIN|	451.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GIVAUDAN-REG	CH0010645932|ISIN|	-71.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HELVETIA HOLDING AG-REG	CH0012271687|ISIN|	15.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INFICON HOLDING AG-REG	CH0011029946|ISIN|	-5.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KUEHNE + NAGEL INTL AG-REG	CH0025238863|ISIN|	301.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LAFARGEHOLCIM LTD-REG	CH0012214059|ISIN|	-3862.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CHOCOLADEFABRIKEN LINDT-REG	CH0010570759|ISIN|	-2.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CHOCOLADEFABRIKEN LINDT-PC	CH0010570767|ISIN|	4.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LOGITECH INTERNATIONAL-REG	CH0025751329|ISIN|	756.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LONZA GROUP AG-REG	CH0013841017|ISIN|	-82.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NESTLE SA-REG	CH0038863350|ISIN|	2792.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NOVARTIS AG-REG	CH0012005267|ISIN|	23605.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	OC OERLIKON CORP AG-REG	CH0000816824|ISIN|	-4944.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PARGESA HOLDING SA-BR	CH0021783391|ISIN|	196.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PARTNERS GROUP HOLDING AG	CH0024608827|ISIN|	20.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PSP SWISS PROPERTY AG-REG	CH0018294154|ISIN|	-746.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ROCHE HOLDING AG-GENUSSCHEIN	CH0012032048|ISIN|	-1673.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SCHINDLER HOLDING AG-REG	CH0024638212|ISIN|	-289.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SCHINDLER HOLDING-PART CERT	CH0024638196|ISIN|	335.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SWISSCOM AG-REG	CH0008742519|ISIN|	-60.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SGS SA-REG	CH0002497458|ISIN|	-54.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SIKA AG-BR	CH0000587979|ISIN|	-2.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SWISS LIFE HOLDING AG-REG	CH0014852781|ISIN|	-376.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SONOVA HOLDING AG-REG	CH0012549785|ISIN|	995.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SWISS PRIME SITE-REG	CH0008038389|ISIN|	568.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SUNRISE COMMUNICATIONS GROUP	CH0267291224|ISIN|	-400.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SWISS RE AG	CH0126881561|ISIN|	2765.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	STRAUMANN HOLDING AG-REG	CH0012280076|ISIN|	400.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TEMENOS GROUP AG-REG	CH0012453913|ISIN|	14.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	UBS GROUP AG-REG	CH0244767585|ISIN|	19025.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SWATCH GROUP AG/THE-REG	CH0012255144|ISIN|	167.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SWATCH GROUP AG/THE-BR	CH0012255151|ISIN|	-508.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VIFOR PHARMA AG	CH0364749348|ISIN|	-583.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ZURICH INSURANCE GROUP AG	CH0011075394|ISIN|	1302.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KOMERCNI BANKA AS	CZ0008019106|ISIN|	1024.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BAVARIAN NORDIC A/S	DK0015998017|ISIN|	96.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CARLSBERG AS-B	DK0010181759|ISIN|	-4086.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CHR HANSEN HOLDING A/S	DK0060227585|ISIN|	-372.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	COLOPLAST-B	DK0060448595|ISIN|	7999.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DANSKE BANK A/S	DK0010274414|ISIN|	-4310.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DSV A/S	DK0060079531|ISIN|	697.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FLSMIDTH & CO A/S	DK0010234467|ISIN|	-363.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GENMAB A/S	DK0010272202|ISIN|	491.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GN STORE NORD A/S	DK0010272632|ISIN|	-14044.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ISS A/S	DK0060542181|ISIN|	3368.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	JYSKE BANK-REG	DK0010307958|ISIN|	1559.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	H LUNDBECK A/S	DK0010287234|ISIN|	-1844.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AP MOELLER-MAERSK A/S-A	DK0010244425|ISIN|	112.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AP MOLLER-MAERSK A/S-B	DK0010244508|ISIN|	-181.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NORDEA BANK AB	SE0000427361|ISIN|	5796.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NKT A/S	DK0010287663|ISIN|	32.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NOVO NORDISK A/S-B	DK0060534915|ISIN|	-2339.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NOVOZYMES A/S-B SHARES	DK0060336014|ISIN|	-1410.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ORSTED A/S	DK0060094928|ISIN|	12539.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PANDORA A/S	DK0060252690|ISIN|	-599.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ROCKWOOL INTL A/S-B SHS	DK0010219153|ISIN|	-1181.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SYDBANK A/S	DK0010311471|ISIN|	-1275.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TDC A/S	DK0060228559|ISIN|	15874.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TOPDANMARK A/S	DK0060477503|ISIN|	2.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TRYG A/S	DK0060636678|ISIN|	-69.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VESTAS WIND SYSTEMS A/S	DK0010268606|ISIN|	10134.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WILLIAM DEMANT HOLDING	DK0060738599|ISIN|	-828.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ALLIED IRISH BANKS PLC	IE00BYSZ9G33|ISIN|	198937.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BANK OF IRELAND GROUP PLC	IE00BD1RP616|ISIN|	2931.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CRH PLC	IE0001827041|ISIN|	-310.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	COVESTRO AG	DE0006062144|ISIN|	-1865.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ADIDAS AG	DE000A1EWWW0|ISIN|	-2823.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ADVA OPTICAL NETWORKING SE	DE0005103006|ISIN|	805.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CARL ZEISS MEDITEC AG - BR	DE0005313704|ISIN|	44.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EADS NV	NL0000235190|ISIN|	1986.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AIXTRON SE	DE000A0WMPJ6|ISIN|	958.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ALLIANZ AG	DE0008404005|ISIN|	2585.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SLM SOLUTIONS GROUP AG	DE000A111338|ISIN|	2487.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ALSTRIA OFFICE REIT-AG	DE000A0LD2U1|ISIN|	-776.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AAREAL BANK AG	DE0005408116|ISIN|	333.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	METRO AG	DE000BFB0019|ISIN|	359.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BASF SE	DE000BASF111|ISIN|	593.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BAYER AG-REG	DE000BAY0017|ISIN|	10672.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BECHTLE AG	DE0005158703|ISIN|	338.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BEIERSDORF AG	DE0005200000|ISIN|	-999.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BAYERISCHE MOTOREN WERKE AG	DE0005190003|ISIN|	-9848.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BRENNTAG AG	DE000A1DAHH0|ISIN|	1729.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HUGO BOSS AG  -ORD	DE000A1PHFF7|ISIN|	1201.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	COMMERZBANK AG	DE000CBK1001|ISIN|	30954.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CECONOMY AG	DE0007257503|ISIN|	-7987.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CANCOM SE	DE0005419105|ISIN|	609.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CONTINENTAL AG	DE0005439004|ISIN|	-965.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	COMPUGROUP MEDICAL SE	DE0005437305|ISIN|	310.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DAIMLER AG-REGISTERED SHARES	DE0007100000|ISIN|	-5894.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DEUTSCHE BOERSE AG	DE0005810055|ISIN|	-5112.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DEUTSCHE BANK AG-REGISTERED	DE0005140008|ISIN|	-40148.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DEUTSCHE EUROSHOP AG	DE0007480204|ISIN|	3207.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DELIVERY HERO AG	DE000A2E4K43|ISIN|	5869.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DIALOG SEMICONDUCTOR PLC	GB0059822006|ISIN|	527.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DEUTSCHE POST AG-REG	DE0005552004|ISIN|	-15988.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DRILLISCH AG	DE0005545503|ISIN|	16279.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DRAEGERWERK AG - PREF	DE0005550636|ISIN|	2758.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DEUTSCHE TELEKOM AG-REG	DE0005557508|ISIN|	-22955.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DUERR AG	DE0005565204|ISIN|	-39.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DEUTSCHE WOHNEN SE	DE000A0HN5C6|ISIN|	4108.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	E.ON SE	DE000ENAG999|ISIN|	4661.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CTS EVENTIM AG & CO KGAA	DE0005470306|ISIN|	924.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EVONIK INDUSTRIES AG	DE000EVNK013|ISIN|	239.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EVOTEC AG	DE0005664809|ISIN|	161.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FIELMANN AG	DE0005772206|ISIN|	-233.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FRESENIUS MEDICAL CARE AG &	DE0005785802|ISIN|	-3527.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FREENET AG	DE000A0Z2ZZ5|ISIN|	2471.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FUCHS PETROLUB SE -PREF	DE0005790430|ISIN|	948.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FUCHS PETROLUB SE	DE0005790406|ISIN|	10.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FRAPORT AG FRANKFURT AIRPORT	DE0005773303|ISIN|	1329.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FRESENIUS SE & CO KGAA	DE0005785604|ISIN|	-9317.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GEA GROUP AG	DE0006602006|ISIN|	-1518.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SCOUT24 AG	DE000A12DM80|ISIN|	695.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BILFINGER SE	DE0005909006|ISIN|	324.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GFT TECHNOLOGIES SE	DE0005800601|ISIN|	-285.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GRENKE AG	DE000A161N30|ISIN|	-1025.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GERRESHEIMER AG	DE000A0LD6E6|ISIN|	-60.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GRAND CITY PROPERTIES	LU0775917882|ISIN|	-165.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HEIDELBERGCEMENT AG	DE0006047004|ISIN|	13.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HENKEL AG & CO KGAA VORZUG	DE0006048432|ISIN|	-686.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HENKEL AG & CO KGAA	DE0006048408|ISIN|	107.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HELLA GMBH & CO KGAA	DE000A13SX22|ISIN|	463.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HANNOVER RUECK SE	DE0008402215|ISIN|	-1243.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HOCHTIEF AG	DE0006070006|ISIN|	101.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INFINEON TECHNOLOGIES AG	DE0006231004|ISIN|	-2697.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	INNOGY SE	DE000A2AADD2|ISIN|	303.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	JENOPTIK AG	DE0006229107|ISIN|	339.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	JUNGHEINRICH - PRFD	DE0006219934|ISIN|	-785.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KLOECKNER & CO SE	DE000KC01000|ISIN|	23078.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KION GROUP AG	DE000KGX8881|ISIN|	-1411.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KRONES AG	DE0006335003|ISIN|	-1439.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LEG IMMOBILIEN AG	DE000LEG1110|ISIN|	2347.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LEONI AG	DE0005408884|ISIN|	6038.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DEUTSCHE LUFTHANSA-REG	DE0008232125|ISIN|	2926.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LINDE AG - TENDER	DE000A2E4L75|ISIN|	-1226.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LINDE AG	DE0006483001|ISIN|	-369.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LANXESS AG	DE0005470405|ISIN|	-2350.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MAN SE	DE0005937007|ISIN|	-25.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MORPHOSYS AG	DE0006632003|ISIN|	56.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MERCK KGAA	DE0006599905|ISIN|	-877.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MTU AERO ENGINES AG	DE000A0D9PT0|ISIN|	5669.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MUENCHENER RUECKVER AG-REG	DE0008430026|ISIN|	-2360.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AURUBIS AG	DE0006766504|ISIN|	1112.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NORDEX SE	DE000A0D6554|ISIN|	3322.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NEMETSCHEK SE	DE0006452907|ISIN|	-8.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NORMA GROUP SE	DE000A1H8BV3|ISIN|	721.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	XING SE	DE000XNG8888|ISIN|	321.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TELEFONICA DEUTSCHLAND HOLDI	DE000A1J5RX9|ISIN|	2213.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	OSRAM LICHT AG	DE000LED4000|ISIN|	-1513.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PORSCHE AUTOMOBIL HLDG-PRF	DE000PAH0038|ISIN|	7.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DEUTSCHE PFANDBRIEFBANK AG	DE0008019001|ISIN|	-5606.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PROSIEBENSAT.1 MEDIA SE	DE000PSM7770|ISIN|	-4792.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PUMA SE	DE0006969603|ISIN|	370.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	QIAGEN N.V.	NL0012169213|ISIN|	4162.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RATIONAL AG	DE0007010803|ISIN|	-6.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RHOEN-KLINIKUM AG	DE0007042301|ISIN|	1142.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RHEINMETALL AG	DE0007030009|ISIN|	2095.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RIB SOFTWARE SE	DE000A0Z2XN6|ISIN|	-19498.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RTL GROUP	LU0061462528|ISIN|	-111.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RWE AG	DE0007037129|ISIN|	-14740.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SMA SOLAR TECHNOLOGY AG	DE000A0DJ6J9|ISIN|	254.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	S&T AG	AT0000A0E9W5|ISIN|	658.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SAP SE	DE0007164600|ISIN|	10047.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	STROEER SE & CO KGAA	DE0007493991|ISIN|	835.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	STADA ARZNEIMITTEL AG	DE0007251803|ISIN|	-581.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	STRATEC BIOMEDICAL AG	DE000STRA555|ISIN|	36.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	K+S AG-REG	DE000KSAG888|ISIN|	10935.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SCHAEFFLER AG	DE000SHA0159|ISIN|	-1077.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SIEMENS AG-REG	DE0007236101|ISIN|	2005.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KOENIG & BAUER AG	DE0007193500|ISIN|	-5.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	STEINHOFF INTERNATIONAL H NV	NL0011375019|ISIN|	-12281.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SOFTWARE AG	DE000A2GS401|ISIN|	-22.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AXEL SPRINGER SE	DE0005501357|ISIN|	214.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SARTORIUS AG-VORZUG	DE0007165631|ISIN|	7.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	STABILUS SA	LU1066226637|ISIN|	-30.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SYMRISE AG	DE000SYM9999|ISIN|	-1886.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SALZGITTER AG	DE0006202005|ISIN|	454.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SUEDZUCKER AG	DE0007297004|ISIN|	1013.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TAG IMMOBILIEN AG	DE0008303504|ISIN|	-5074.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	THYSSENKRUPP AG	DE0007500001|ISIN|	-5648.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TALANX AG	DE000TLX1005|ISIN|	880.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	UNIPER SE	DE000UNSE018|ISIN|	-625.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	UNITED INTERNET AG-REG SHARE	DE0005089031|ISIN|	420.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VONOVIA SE	DE000A1ML7J1|ISIN|	-1222.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VOLKSWAGEN AG-PREF	DE0007664039|ISIN|	3195.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VOLKSWAGEN AG	DE0007664005|ISIN|	8.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VTG AG	DE000VTG9999|ISIN|	96.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SILTRONIC AG	DE000WAF3001|ISIN|	3392.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WACKER CHEMIE AG	DE000WCH8881|ISIN|	-182.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WIRECARD AG	DE0007472060|ISIN|	15575.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ZALANDO SE	DE000ZAL1111|ISIN|	-6824.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AKTIA BANK OYJ	FI4000058870|ISIN|	2.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AHLSTROM-MUNKSJO OYJ	FI4000048418|ISIN|	101.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AMER SPORTS OYJ	FI0009000285|ISIN|	10397.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CAVERION OYJ	FI4000062781|ISIN|	5038.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CARGOTEC OYJ-B SHARE	FI0009013429|ISIN|	746.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CRAMO OYJ	FI0009900476|ISIN|	-261.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CITYCON OYJ	FI0009002471|ISIN|	-1016.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DNA OY	FI4000062385|ISIN|	14.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ELISA OYJ	FI0009007884|ISIN|	531.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FINNAIR OYJ	FI0009003230|ISIN|	169.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FORTUM OYJ	FI0009007132|ISIN|	14242.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	FISKARS OYJ ABP	FI0009000400|ISIN|	221.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HUHTAMAKI OYJ	FI0009000459|ISIN|	-17908.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KONECRANES OYJ	FI0009005870|ISIN|	10238.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KEMIRA OYJ	FI0009004824|ISIN|	56.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KESKO OYJ-B SHS	FI0009000202|ISIN|	1005.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KONE OYJ-B	FI0009013403|ISIN|	-2036.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LASSILA & TIKANOJA OYJ	FI0009010854|ISIN|	251.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LEHTO GROUP OYJ	FI4000081138|ISIN|	219.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	METSA BOARD OYJ	FI0009000665|ISIN|	1232.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	METSO OYJ	FI0009007835|ISIN|	-2875.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NORDEA BANK AB - FDR	FI0009902530|ISIN|	8449.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NESTE OYJ	FI0009013296|ISIN|	-11490.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NOKIA OYJ	FI0009000681|ISIN|	-190090.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	NOKIAN RENKAAT OYJ	FI0009005318|ISIN|	-1464.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ORIOLA CORP -B	FI0009014351|ISIN|	-942.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	OLVI OYJ-A SHARES	FI0009900401|ISIN|	154.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ORION OYJ-CLASS B	FI0009014377|ISIN|	14307.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	OUTOTEC OYJ	FI0009014575|ISIN|	41.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	OUTOKUMPU OYJ	FI0009002422|ISIN|	-36087.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RAMIRENT OYJ	FI0009007066|ISIN|	901.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SANOMA OYJ	FI0009007694|ISIN|	-346.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SAMPO OYJ-A SHS	FI0009003305|ISIN|	6562.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	STORA ENSO OYJ-R SHS	FI0009005961|ISIN|	9340.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TELIA CO AB	SE0000667925|ISIN|	1315.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TIETO OYJ	FI0009000277|ISIN|	-95.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TIKKURILA OYJ	FI4000008719|ISIN|	142.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TECHNOPOLIS OYJ	FI0009006886|ISIN|	124.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	UPM-KYMMENE OYJ	FI0009005987|ISIN|	22653.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	UPONOR OYJ	FI0009002158|ISIN|	-112.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VALMET OYJ	FI4000074984|ISIN|	-4960.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WARTSILA OYJ ABP	FI0009003727|ISIN|	-2734.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	YIT OYJ	FI0009800643|ISIN|	8175.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AKBANK T.A.S.	TRAAKBNK91N6|ISIN|	-242826.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ARCELIK AS	TRAARCLK91H5|ISIN|	-32037.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ASELSAN ELEKTRONIK SANAYI	TRAASELS91H2|ISIN|	-1692.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BIM BIRLESIK MAGAZALAR AS	TREBIMM00018|ISIN|	-5254.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	DOGAN SIRKETLER GRUBU HLDGS	TRADOHOL91Q8|ISIN|	-169992.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EIS ECZACIBASI ILAC VE SINAI	TRAECILC91E0|ISIN|	-4697.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EMLAK KONUT GAYRIMENKUL YATI	TREEGYO00017|ISIN|	-29193.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ENKA INSAAT VE SANAYI AS	TREENKA00011|ISIN|	-134477.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EREGLI DEMIR VE CELIK FABRIK	TRAEREGL91G3|ISIN|	18572.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TURKIYE GARANTI BANKASI	TRAGARAN91N1|ISIN|	200033.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TURKIYE HALK BANKASI	TRETHAL00019|ISIN|	71100.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TURKIYE IS BANKASI-C	TRAISCTR91N2|ISIN|	-27246.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KOC HOLDING AS	TRAKCHOL91Q8|ISIN|	111189.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KOZA ANADOLU METAL MADENCILI	TREKOZA00014|ISIN|	-642.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KOZA ALTIN ISLETMELERI AS	TREKOAL00014|ISIN|	-10491.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KARDEMIR KARABUK DEMIR-CL D	TRAKRDMR91G7|ISIN|	-16556.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	OTOKAR OTOMOTIV VE SAVUNMA	TRAOTKAR91H3|ISIN|	-1178.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PETKIM PETROKIMYA HOLDING AS	TRAPETKM91E0|ISIN|	68234.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PEGASUS HAVA TASIMACILIGI AS	TREPEGS00016|ISIN|	1073.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	HACI OMER SABANCI HOLDING	TRASAHOL91Q5|ISIN|	111033.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TURK SISE VE CAM FABRIKALARI	TRASISEW91Q3|ISIN|	-66191.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TAV HAVALIMANLARI HOLDING AS	TRETAVH00018|ISIN|	-24774.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TURKCELL ILETISIM HIZMET AS	TRATCELL91M1|ISIN|	-140151.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TURK HAVA YOLLARI AO	TRATHYAO91M5|ISIN|	175511.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TEKFEN HOLDING AS	TRETKHO00012|ISIN|	-15839.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TOFAS TURK OTOMOBIL FABRIKA	TRATOASO91H3|ISIN|	-6665.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TURK TELEKOMUNIKASYON AS	TRETTLK00013|ISIN|	-22933.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TUPRAS-TURKIYE PETROL RAFINE	TRATUPRS91E8|ISIN|	-3499.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TURKIYE VAKIFLAR BANKASI T-D	TREVKFB00019|ISIN|	102753.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	YAPI VE KREDI BANKASI	TRAYKBNK91N6|ISIN|	24143.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	AGRANA BETEILIGUNGS AG	AT0000603709|ISIN|	48.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ANDRITZ AG	AT0000730007|ISIN|	838.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BAWAG GROUP AG	AT0000BAWAG2|ISIN|	2306.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BUWOG AG	AT00BUWOG001|ISIN|	-7502.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CA IMMOBILIEN ANLAGEN AG	AT0000641352|ISIN|	-1078.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ERSTE GROUP BANK AG	AT0000652011|ISIN|	1569.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	IMMOFINANZ AG	AT0000809058|ISIN|	27079.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LENZING AG	AT0000644505|ISIN|	136.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	OMV AG	AT0000743059|ISIN|	-1771.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	OESTERREICHISCHE POST AG	AT0000APOST4|ISIN|	-598.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RAIFFEISEN BANK INTERNATIONA	AT0000606306|ISIN|	-5147.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	SCHOELLER-BLECKMANN OILFIELD	AT0000946652|ISIN|	-69.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	S IMMO AG	AT0000652250|ISIN|	698.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TELEKOM AUSTRIA AG	AT0000720008|ISIN|	-630.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	UNIQA INSURANCE GROUP AG	AT0000821103|ISIN|	776.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VERBUND AG	AT0000746409|ISIN|	1586.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VIENNA INSURANCE GROUP AG	AT0000908504|ISIN|	183.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	VOESTALPINE AG	AT0000937503|ISIN|	1310.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	WIENERBERGER AG	AT0000831706|ISIN|	88.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ZUMTOBEL GROUP AG	AT0000837307|ISIN|	-246.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ASSECO POLAND SA	PLSOFTB00016|ISIN|	181.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ALIOR BANK SA	PLALIOR00045|ISIN|	-477.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BANK ZACHODNI WBK SA	PLBZ00000044|ISIN|	-170.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CCC SA	PLCCC0000016|ISIN|	30.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	CYFROWY POLSAT SA	PLCFRPT00013|ISIN|	1548.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ENERGA SA	PLENERG00022|ISIN|	-504.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	EUROCASH SA	PLEURCH00011|ISIN|	934.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	JASTRZEBSKA SPOLKA WEGLOWA S	PLJSW0000015|ISIN|	49.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	KGHM POLSKA MIEDZ SA	PLKGHM000017|ISIN|	-513.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	LPP SA	PLLPP0000011|ISIN|	-7.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	GRUPA LOTOS SA	PLLOTOS00025|ISIN|	64.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	MBANK SA	PLBRE0000012|ISIN|	131.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	ORANGE POLSKA SA	PLTLKPL00017|ISIN|	-7000.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	BANK PEKAO SA	PLPEKAO00016|ISIN|	131.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PGE SA	PLPGER000010|ISIN|	-347.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	POLSKIE GORNICTWO NAFTOWE I	PLPGNIG00014|ISIN|	6653.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	POLSKI KONCERN NAFTOWY ORLEN	PLPKN0000018|ISIN|	567.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	PKO BANK POLSKI SA	PLPKO0000016|ISIN|	-1608.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	POWSZECHNY ZAKLAD UBEZPIECZE	PLPZU0000011|ISIN|	-2293.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	TAURON POLSKA ENERGIA SA	PLTAURN00011|ISIN|	-7791.0						Strategy|BryceEq|UnderlyingID|
+exchangeTraded	RHI MAGNESITA NV	NL0012650360|ISIN|	2833.0						Strategy|BryceEq|UnderlyingID|
+END-OF-DATA
+END-OF-FILE
