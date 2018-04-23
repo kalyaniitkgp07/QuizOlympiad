@@ -1,0 +1,103 @@
+<!-- edited with XMLSpy v2008 rel. 2 (http://www.altova.com) by RMG (RiskMetrics Group) -->
+<positions>
+	<exchangeTraded>
+		<positionName>ANTOFAGASTA PLC</positionName>
+		<id exchangeCode="LN" type="ISIN">GB0000456144</id>
+		<amount>1248.1716</amount>
+	</exchangeTraded>
+	<exchangeTraded>
+		<positionName>DIXONS GROUP PLC</positionName>
+		<id exchangeCode="LN" type="ISIN">GB0000472455</id>
+		<amount>5876.5832</amount>
+	</exchangeTraded>
+	<exchangeTraded>
+		<positionName>BHP BILLITON PLC</positionName>
+		<id exchangeCode="LN" type="ISIN">GB0000566504</id>
+		<amount>7815.2767</amount>
+	</exchangeTraded>
+	<exchangeTraded>
+		<positionName>ARM HOLDINGS PLC</positionName>
+		<id exchangeCode="LN" type="ISIN">GB0000595859</id>
+		<amount>5436.7025</amount>
+	</exchangeTraded>
+	<exchangeTraded>
+		<positionName>BARRATT DEVELOPMENTS PLC</positionName>
+		<id exchangeCode="LN" type="ISIN">GB0000811801</id>
+		<amount>3913.7066</amount>
+	</exchangeTraded>
+	<exchangeTraded>
+		<positionName>BALFOUR BEATTY PLC</positionName>
+		<id exchangeCode="LN" type="ISIN">GB0000961622</id>
+		<amount>2540.1245</amount>
+	</exchangeTraded>
+	<exchangeTraded>
+		<positionName>BRITISH AIRWAYS PLC</positionName>
+		<id exchangeCode="LN" type="ISIN">GB0001290575</id>
+		<amount>3337.8971</amount>
+	</exchangeTraded>
+	<exchangeTraded>
+		<positionName>BRITISH SKY BROADCASTING PLC</positionName>
+		<id exchangeCode="LN" type="ISIN">GB0001411924</id>
+		<amount>2218.2825</amount>
+	</exchangeTraded>
+	<exchangeTraded>
+		<positionName>AGGREKO PLC</positionName>
+		<id exchangeCode="LN" type="ISIN">GB0001478998</id>
+		<amount>1304.7187</amount>
+	</exchangeTraded>
+	<exchangeTraded>
+		<positionName>TULLOW OIL PLC</positionName>
+		<id exchangeCode="LN" type="ISIN">GB0001500809</id>
+		<amount>2176.2093</amount>
+	</exchangeTraded>
+	<exchangeTraded>
+		<positionName>CABLE &amp; WIRELESS PLC</positionName>
+		<id exchangeCode="LN" type="ISIN">GB0001625572</id>
+		<amount>6781.9661</amount>
+	</exchangeTraded>
+	<exchangeTraded>
+		<positionName>WETHERSPOON (J.D.) PLC</positionName>
+		<id exchangeCode="LN" type="ISIN">GB0001638955</id>
+		<amount>5522.1075</amount>
+	</exchangeTraded>
+	<exchangeTraded>
+		<positionName>CATTLES PLC</positionName>
+		<id exchangeCode="LN" type="ISIN">GB0001803666</id>
+		<amount>1525.2434</amount>
+	</exchangeTraded>
+	<exchangeTraded>
+		<positionName>CHARTER PLC</positionName>
+		<id exchangeCode="LN" type="ISIN">GB0001882637</id>
+		<amount>447.3424</amount>
+	</exchangeTraded>
+	<exchangeTraded>
+		<positionName>AVIVA PLC</positionName>
+		<id exchangeCode="LN" type="ISIN">GB0002162385</id>
+		<amount>8820.3587</amount>
+	</exchangeTraded>
+	<exchangeTraded>
+		<positionName>SCS UPHOLSTERY PLC</positionName>
+		<id exchangeCode="LN" type="ISIN">GB0002199924</id>
+		<amount>3106.8541</amount>
+	</exchangeTraded>
+	<exchangeTraded>
+		<positionName>ARRIVA PLC</positionName>
+		<id exchangeCode="LN" type="ISIN">GB0002303468</id>
+		<amount>417.4057</amount>
+	</exchangeTraded>
+	<exchangeTraded>
+		<positionName>DIAGEO PLC</positionName>
+		<id exchangeCode="LN" type="ISIN">GB0002374006</id>
+		<amount>5778.2326</amount>
+	</exchangeTraded>
+	<exchangeTraded>
+		<positionName>SCHRODERS PLC</positionName>
+		<id exchangeCode="LN" type="ISIN">GB0002405495</id>
+		<amount>556.8406</amount>
+	</exchangeTraded>
+	<exchangeTraded>
+		<positionName>DAIRY CREST GROUP PLC</positionName>
+		<id exchangeCode="LN" type="ISIN">GB0002502812</id>
+		<amount>9794.5151</amount>
+	</exchangeTraded>
+</positions>
